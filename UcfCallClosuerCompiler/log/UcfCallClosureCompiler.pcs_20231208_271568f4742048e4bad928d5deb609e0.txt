@@ -1,0 +1,9 @@
+﻿[2023/12/08 17:36:51] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/12/08 17:36:52] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\sateraito_message.py
+[2023/12/08 17:36:52] [Compile Start]common.js
+[2023/12/08 17:36:54] [Compile Start]jkmegamenu.js
+[2023/12/08 17:36:56] [Compile Start]jquery.crossSelect.js
+[2023/12/08 17:36:59] [Compile Start]jquery.blockUI.js
+[2023/12/08 17:37:01] [Compile Start]json.js
+[2023/12/08 17:37:03] [Compile Start]ucfext.file.js
+[2023/12/08 17:37:05] [Compile Start]ucfext.js

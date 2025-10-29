@@ -1,0 +1,10 @@
+﻿[2024/04/19 15:34:06] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/meetingroom.js:656:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  656|             if(_aut != "preview"){
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  657|                 //settingCondition(data);
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  658|             }
+       ^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+

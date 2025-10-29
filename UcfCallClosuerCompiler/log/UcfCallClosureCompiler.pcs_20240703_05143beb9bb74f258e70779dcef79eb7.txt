@@ -1,0 +1,20 @@
+﻿[2024/07/03 18:37:19] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/07/03 18:37:19] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2024/07/03 18:37:19] [Compile Start]firebase_notification.js
+[2024/07/03 18:37:22] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:100:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  100|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  101|               .then((refreshedToken) => {
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  103|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+  104|             })
+       ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:37:22] Expand Jinja Templates include files...
+[2024/07/03 18:37:22] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2024/07/03 18:37:22] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2024/07/03 18:37:22] Expand Jinja Templates include files fin.

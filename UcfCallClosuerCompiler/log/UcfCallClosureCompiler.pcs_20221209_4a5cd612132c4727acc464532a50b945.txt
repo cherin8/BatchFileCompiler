@@ -1,0 +1,12 @@
+﻿[2022/12/09 15:12:44] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2022/12/09 15:12:44] System.IO.DirectoryNotFoundException: パス 'D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\05.LanguageXmlTranslationApplication\MAIN\src\js\debug\lang\default.js' の一部が見つかりませんでした。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   場所 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   場所 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   場所 Ucf.CallClosureCompiler.Program.callCreateLangJsFile(String strMessageFilePath, String strLanguage, Boolean isUseDefaultDefine, String strJsFileName, IList`1 lstDefaultMsg, IList`1 lstSemiDefaultMsg, String strDefaultLanguageFilePath, String strSemiDefaultLanguageFilePath)
+   場所 Ucf.CallClosureCompiler.Program.createLangJsFiles()
+   場所 Ucf.CallClosureCompiler.Program.executeMainProcess()
+   場所 Ucf.CallClosureCompiler.Program.Main(String[] args)

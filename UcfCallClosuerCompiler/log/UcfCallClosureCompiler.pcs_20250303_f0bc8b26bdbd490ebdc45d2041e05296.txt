@@ -1,0 +1,13 @@
+﻿[2025/03/03 12:26:22] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2025/03/03 12:26:22] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2025/03/03 12:26:22] [Compile Start]canvas_map.js
+[2025/03/03 12:26:24] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:639:16: ERROR - [JSC_REFERENCE_BEFORE_DECLARE_ERROR] Illegal variable reference before declaration: rectContainer
+  639|                 rectContainer.innerHTML = ''; // Clear existing rectangles and avatars
+                       ^^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2025/03/03 12:26:24] Expand Jinja Templates include files...
+[2025/03/03 12:26:24] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2025/03/03 12:26:24] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2025/03/03 12:26:24] Expand Jinja Templates include files fin.

@@ -1,0 +1,6 @@
+﻿[2024/02/29 18:31:44] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/attendance.js:744:105: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  744|                         var status_button = $(`<div class="system-status-button" onclick="updateStatus(${data_no, current_status})"></div>`);
+                                                                                                                ^^^^^^^
+
+0 error(s), 1 warning(s)
+

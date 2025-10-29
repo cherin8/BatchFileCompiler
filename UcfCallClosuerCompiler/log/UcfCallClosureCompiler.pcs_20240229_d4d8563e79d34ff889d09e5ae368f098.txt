@@ -1,0 +1,13 @@
+﻿[2024/02/29 18:31:40] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/02/29 18:31:40] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\sateraito_message.py
+[2024/02/29 18:31:41] [Compile Start]attendance.js
+[2024/02/29 18:31:44] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/attendance.js:744:105: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  744|                         var status_button = $(`<div class="system-status-button" onclick="updateStatus(${data_no, current_status})"></div>`);
+                                                                                                                ^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/02/29 18:31:44] Expand Jinja Templates include files...
+[2024/02/29 18:31:44] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates
+[2024/02/29 18:31:44] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates_automatically
+[2024/02/29 18:31:44] Expand Jinja Templates include files fin.

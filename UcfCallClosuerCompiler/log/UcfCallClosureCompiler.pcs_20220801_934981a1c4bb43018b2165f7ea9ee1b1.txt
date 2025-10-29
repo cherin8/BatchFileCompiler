@@ -1,0 +1,6 @@
+﻿[2022/08/01 15:54:52] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2022/08/01 15:54:52] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\sateraito_message.py
+[2022/08/01 15:54:52] Expand Jinja Templates include files...
+[2022/08/01 15:54:52] Src:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\templates
+[2022/08/01 15:54:52] Dst:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\templates_automatically
+[2022/08/01 15:54:52] Expand Jinja Templates include files fin.

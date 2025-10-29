@@ -1,0 +1,18 @@
+﻿[2024/05/16 16:06:31] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:225:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  225|             var coords = cdata.coords || {};
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/05/16 16:13:09] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:225:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  225|             var coords = cdata.coords || {};
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/05/16 16:18:33] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:225:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  225|             var coords = cdata.coords || {};
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+

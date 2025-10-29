@@ -1,0 +1,75 @@
+﻿[2024/02/21 13:12:35] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/canvas_map.js:520:16: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  520|                 if(rect_id){
+                       ^^^^^^^^^^^^^
+  521|                     // redirect to detail page
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  522|                     // window.location.href = toDetailUrl(rect_id);
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  523|                 }
+       ^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/02/21 13:21:52] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/canvas_map.js:531:24: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  531|                         if(rect_id){
+                               ^^^^^^^^^^^^^
+  532|                             // redirect to detail page
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  533|                             // window.location.href = toDetailUrl(rect_id);
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  534|                         }
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/02/21 13:28:20] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/canvas_map.js:531:24: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  531|                         if(rect_id){
+                               ^^^^^^^^^^^^^
+  532|                             // redirect to detail page
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  533|                             // window.location.href = toDetailUrl(rect_id);
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  534|                         }
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/02/21 15:11:54] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/canvas_map.js:492:16: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  492|                 preSelectionCoords = { startX: startX, startY: startY, endX: endX, endY: endY };
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/02/21 15:16:12] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/canvas_map.js:494:16: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  494|                 preSelectionCoords = { startX: startX, startY: startY, endX: endX, endY: endY };
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/02/21 15:18:13] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/canvas_map.js:495:16: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  495|                 preSelectionCoords = { startX: startX, startY: startY, endX: endX, endY: endY };
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/02/21 15:23:40] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/canvas_map.js:495:16: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  495|                 preSelectionCoords = { startX: startX, startY: startY, endX: endX, endY: endY };
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/02/21 18:01:43] System.IO.IOException: 要求された操作はユーザー マップ セクションで開いたファイルでは実行できません。
+
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   場所 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   場所 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludes()
+   場所 Ucf.CallClosureCompiler.Program.executeMainProcess()
+   場所 Ucf.CallClosureCompiler.Program.Main(String[] args)

@@ -1,0 +1,21 @@
+﻿[2024/02/21 18:01:40] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/02/21 18:01:40] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\sateraito_message.py
+[2024/02/21 18:01:40] [Compile Start]canvas_map.js
+[2024/02/21 18:01:43] Expand Jinja Templates include files...
+[2024/02/21 18:01:43] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates
+[2024/02/21 18:01:43] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates_automatically
+[2024/02/21 18:01:43] System.IO.IOException: 要求された操作はユーザー マップ セクションで開いたファイルでは実行できません。
+
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   場所 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   場所 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludes()
+   場所 Ucf.CallClosureCompiler.Program.executeMainProcess()
+   場所 Ucf.CallClosureCompiler.Program.Main(String[] args)

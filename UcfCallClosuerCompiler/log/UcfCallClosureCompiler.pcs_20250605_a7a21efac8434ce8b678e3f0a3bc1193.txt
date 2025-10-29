@@ -1,0 +1,58 @@
+﻿[2025/06/05 18:32:04] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2025/06/05 18:32:04] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\sateraito_message.py
+[2025/06/05 18:32:05] [Compile Start]meetingroom.js
+[2025/06/05 18:32:07] java.lang.RuntimeException: INTERNAL COMPILER ERROR.
+Please report this problem.
+
+Cannot read field "references" because "referenceInfo" is null
+  Node(SWITCH): D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/meetingroom.js:640:12
+            switch(selector) {
+  Parent(BLOCK): D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/meetingroom.js:637:60
+        addContent: function (selector, element, container) {
+
+	at com.google.javascript.jscomp.Compiler.throwInternalError(Compiler.java:2882)
+	at com.google.javascript.jscomp.NodeTraversal.throwUnexpectedException(NodeTraversal.java:442)
+	at com.google.javascript.jscomp.NodeTraversal.traverseRoots(NodeTraversal.java:486)
+	at com.google.javascript.jscomp.NodeTraversal.access$400(NodeTraversal.java:38)
+	at com.google.javascript.jscomp.NodeTraversal$Builder.traverseRoots(NodeTraversal.java:406)
+	at com.google.javascript.jscomp.ReferenceCollector.process(ReferenceCollector.java:102)
+	at com.google.javascript.jscomp.InlineObjectLiterals.process(InlineObjectLiterals.java:63)
+	at com.google.javascript.jscomp.PhaseOptimizer$NamedPass.process(PhaseOptimizer.java:267)
+	at com.google.javascript.jscomp.PhaseOptimizer$Loop.process(PhaseOptimizer.java:405)
+	at com.google.javascript.jscomp.PhaseOptimizer.process(PhaseOptimizer.java:186)
+	at com.google.javascript.jscomp.Compiler.performTranspilationAndOptimizations(Compiler.java:2572)
+	at com.google.javascript.jscomp.Compiler.lambda$stage2Passes$5(Compiler.java:936)
+	at com.google.javascript.jscomp.CompilerExecutor.lambda$runInCompilerThread$0(CompilerExecutor.java:101)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.NullPointerException: Cannot read field "references" because "referenceInfo" is null
+	at com.google.javascript.jscomp.InlineObjectLiterals$InliningBehavior.afterExitScope(InlineObjectLiterals.java:87)
+	at com.google.javascript.jscomp.ReferenceCollector$CollectorCallback.exitScope(ReferenceCollector.java:243)
+	at com.google.javascript.jscomp.NodeTraversal.popScope(NodeTraversal.java:1046)
+	at com.google.javascript.jscomp.NodeTraversal.popScope(NodeTraversal.java:1036)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:852)
+	at com.google.javascript.jscomp.NodeTraversal.traverseFunction(NodeTraversal.java:895)
+	at com.google.javascript.jscomp.NodeTraversal.handleFunction(NodeTraversal.java:760)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:803)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:847)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:847)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:847)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:847)
+	at com.google.javascript.jscomp.NodeTraversal.traverseFunction(NodeTraversal.java:895)
+	at com.google.javascript.jscomp.NodeTraversal.handleFunction(NodeTraversal.java:760)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:803)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:847)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:847)
+	at com.google.javascript.jscomp.NodeTraversal.traverseChildren(NodeTraversal.java:984)
+	at com.google.javascript.jscomp.NodeTraversal.handleScript(NodeTraversal.java:748)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:800)
+	at com.google.javascript.jscomp.NodeTraversal.traverseBranch(NodeTraversal.java:847)
+	at com.google.javascript.jscomp.NodeTraversal.traverseRoots(NodeTraversal.java:482)
+	... 14 more
+
+[2025/06/05 18:32:07] Expand Jinja Templates include files...
+[2025/06/05 18:32:07] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates
+[2025/06/05 18:32:07] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates_automatically
+[2025/06/05 18:32:07] Expand Jinja Templates include files fin.

@@ -1,0 +1,40 @@
+﻿[2025/06/19 11:36:59] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2025/06/19 11:36:59] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\sateraito_message.py
+[2025/06/19 11:36:59] [Compile Start]attendance.js
+[2025/06/19 11:37:02] [Compile Start]equipment.js
+[2025/06/19 11:37:04] [Compile Start]meetingroom.js
+[2025/06/19 11:37:07] [Compile Start]freeaddress.js
+[2025/06/19 11:37:09] [Compile Start]resource_view_freeaddress.js
+[2025/06/19 11:37:12] [Compile Start]resource_view_common.js
+[2025/06/19 11:37:14] [Compile Start]resource_view.js
+[2025/06/19 11:37:17] [Compile Start]map_controller.js
+[2025/06/19 11:37:19] [Compile Start]canvas_map.js
+[2025/06/19 11:37:21] [Compile Start]regist_common.js
+[2025/06/19 11:37:24] [Compile Start]common.js
+[2025/06/19 11:37:26] [Compile Start]init_backstretch.js
+[2025/06/19 11:37:28] [Compile Start]jkmegamenu.js
+[2025/06/19 11:37:30] [Compile Start]moment-with-locales.js
+[2025/06/19 11:37:34] [Compile Start]ucfext.js
+[2025/06/19 11:37:36] [Compile Start]ucfext_acnt.js
+[2025/06/19 11:37:38] [Compile Start]ucfext_acslog.js
+[2025/06/19 11:37:41] [Compile Start]ucfext_bell.js
+[2025/06/19 11:37:43] [Compile Start]ucfext_chat_common.js
+[2025/06/19 11:37:45] [Compile Start]ucfext_chatbot.js
+[2025/06/19 11:37:47] [Compile Start]ucfext_config.js
+[2025/06/19 11:37:49] [Compile Start]ucfext_field.js
+[2025/06/19 11:37:51] [Compile Start]ucfext_task.js
+[2025/06/19 11:37:53] [Compile Start]ucfext_operationlog.js
+[2025/06/19 11:37:55] [Compile Start]firebase_operation.js
+[2025/06/19 11:37:57] [Compile Start]ext\PasswordStrength.js
+[2025/06/19 11:38:00] [Compile Start]ext\PopupGroupList.js
+[2025/06/19 11:38:02] [Compile Start]ext\PopupOrgUnitList.js
+[2025/06/19 11:38:04] [Compile Start]ext\PopupResourceList.js
+[2025/06/19 11:38:06] [Compile Start]ext\SecurityKeyboard.js
+[2025/06/19 11:38:08] [Compile Start]ext\ucf_element_selector.js
+[2025/06/19 11:38:10] [Compile Start]lang\default.js
+[2025/06/19 11:38:12] [Compile Start]lang\ja.js
+[2025/06/19 11:38:14] [Compile Start]lang\en.js
+[2025/06/19 11:38:17] Expand Jinja Templates include files...
+[2025/06/19 11:38:17] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates
+[2025/06/19 11:38:17] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates_automatically
+[2025/06/19 11:38:19] Expand Jinja Templates include files fin.

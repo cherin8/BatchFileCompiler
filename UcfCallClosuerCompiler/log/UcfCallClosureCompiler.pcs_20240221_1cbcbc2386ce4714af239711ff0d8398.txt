@@ -1,0 +1,13 @@
+﻿[2024/02/21 15:23:37] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/02/21 15:23:37] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\sateraito_message.py
+[2024/02/21 15:23:37] [Compile Start]canvas_map.js
+[2024/02/21 15:23:40] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/canvas_map.js:495:16: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  495|                 preSelectionCoords = { startX: startX, startY: startY, endX: endX, endY: endY };
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/02/21 15:23:40] Expand Jinja Templates include files...
+[2024/02/21 15:23:40] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates
+[2024/02/21 15:23:40] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates_automatically
+[2024/02/21 15:23:40] Expand Jinja Templates include files fin.

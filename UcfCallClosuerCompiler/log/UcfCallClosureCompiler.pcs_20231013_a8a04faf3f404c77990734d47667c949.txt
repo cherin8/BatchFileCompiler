@@ -1,0 +1,6 @@
+﻿[2023/10/13 13:07:57] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/10/13 13:07:57] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\02.BeaconWebApplication\MAIN\src\sateraito_message.py
+[2023/10/13 13:07:57] Expand Jinja Templates include files...
+[2023/10/13 13:07:57] Src:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\02.BeaconWebApplication\MAIN\src\templates
+[2023/10/13 13:07:57] Dst:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\02.BeaconWebApplication\MAIN\src\templates_automatically
+[2023/10/13 13:07:57] Expand Jinja Templates include files fin.

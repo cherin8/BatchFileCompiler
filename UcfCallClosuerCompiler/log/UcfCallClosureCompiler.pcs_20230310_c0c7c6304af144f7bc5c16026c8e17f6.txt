@@ -1,0 +1,15 @@
+﻿[2023/03/10 17:05:58] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/03/10 17:05:58] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\sateraito_message.py
+[2023/03/10 17:05:59] [Compile Start]lang\default.js
+[2023/03/10 17:06:00] D:/SATERAITO-OFFICE-PROJECT/SATERAITO-WEB-APPLICATIONS/03.SateraitoGlassApplication/MAIN/src/script/debug/lang/default.js:2210:34: ERROR - [JSC_PARSE_ERROR] Parse error. '}' expected
+  2210| 	,'MSG_SPREADSHEET_SYNC_HEADER': u'スプレッドシート同期設定'
+        	                                 ^
+
+1 error(s), 0 warning(s)
+
+[2023/03/10 17:06:00] [Compile Start]lang\ja.js
+[2023/03/10 17:06:02] [Compile Start]lang\en.js
+[2023/03/10 17:06:04] Expand Jinja Templates include files...
+[2023/03/10 17:06:04] Src:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\templates
+[2023/03/10 17:06:04] Dst:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\templates_automatically
+[2023/03/10 17:06:05] Expand Jinja Templates include files fin.

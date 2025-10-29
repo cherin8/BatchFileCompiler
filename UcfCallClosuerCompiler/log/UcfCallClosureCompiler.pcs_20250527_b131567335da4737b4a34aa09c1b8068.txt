@@ -1,0 +1,43 @@
+﻿[2025/05/27 15:00:43] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2025/05/27 15:00:43] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\sateraito_message.py
+[2025/05/27 15:00:43] [Compile Start]test.js
+[2025/05/27 15:00:46] [Compile Start]areamonitoring.js
+[2025/05/27 15:00:49] [Compile Start]attendance.js
+[2025/05/27 15:00:51] [Compile Start]common.js
+[2025/05/27 15:00:53] [Compile Start]canvas_map.js
+[2025/05/27 15:00:56] [Compile Start]equipment.js
+[2025/05/27 15:00:58] [Compile Start]init_backstretch.js
+[2025/05/27 15:01:01] [Compile Start]jkmegamenu.js
+[2025/05/27 15:01:03] [Compile Start]meetingroom.js
+[2025/05/27 15:01:05] [Compile Start]moment-with-locales.js
+[2025/05/27 15:01:09] [Compile Start]regist_common.js
+[2025/05/27 15:01:12] [Compile Start]resource_view_common.js
+[2025/05/27 15:01:14] [Compile Start]resource_view.js
+[2025/05/27 15:01:17] [Compile Start]freeaddress.js
+[2025/05/27 15:01:19] [Compile Start]floormap_canvas.js
+[2025/05/27 15:01:21] [Compile Start]map_controller.js
+[2025/05/27 15:01:24] [Compile Start]sample_html.js
+[2025/05/27 15:01:26] [Compile Start]ucfext.js
+[2025/05/27 15:01:28] [Compile Start]ucfext_acnt.js
+[2025/05/27 15:01:31] [Compile Start]ucfext_acslog.js
+[2025/05/27 15:01:33] [Compile Start]ucfext_bell.js
+[2025/05/27 15:01:36] [Compile Start]ucfext_chat_common.js
+[2025/05/27 15:01:40] [Compile Start]ucfext_chatbot.js
+[2025/05/27 15:01:43] [Compile Start]ucfext_config.js
+[2025/05/27 15:01:46] [Compile Start]ucfext_field.js
+[2025/05/27 15:01:48] [Compile Start]ucfext_task.js
+[2025/05/27 15:01:51] [Compile Start]ucfext_operationlog.js
+[2025/05/27 15:01:53] [Compile Start]firebase_operation.js
+[2025/05/27 15:01:55] [Compile Start]ext\PasswordStrength.js
+[2025/05/27 15:01:58] [Compile Start]ext\PopupGroupList.js
+[2025/05/27 15:02:00] [Compile Start]ext\PopupOrgUnitList.js
+[2025/05/27 15:02:03] [Compile Start]ext\PopupResourceList.js
+[2025/05/27 15:02:05] [Compile Start]ext\SecurityKeyboard.js
+[2025/05/27 15:02:07] [Compile Start]ext\ucf_element_selector.js
+[2025/05/27 15:02:09] [Compile Start]lang\default.js
+[2025/05/27 15:02:11] [Compile Start]lang\ja.js
+[2025/05/27 15:02:14] [Compile Start]lang\en.js
+[2025/05/27 15:02:16] Expand Jinja Templates include files...
+[2025/05/27 15:02:16] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates
+[2025/05/27 15:02:16] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates_automatically
+[2025/05/27 15:02:19] Expand Jinja Templates include files fin.

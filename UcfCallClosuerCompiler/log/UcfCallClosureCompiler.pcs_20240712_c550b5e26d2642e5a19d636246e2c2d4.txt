@@ -1,0 +1,13 @@
+﻿[2024/07/12 10:18:58] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/07/12 10:18:58] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2024/07/12 10:18:58] [Compile Start]firebase_operation.js
+[2024/07/12 10:18:59] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "./firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from './firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/12 10:18:59] Expand Jinja Templates include files...
+[2024/07/12 10:18:59] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2024/07/12 10:18:59] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2024/07/12 10:19:01] Expand Jinja Templates include files fin.

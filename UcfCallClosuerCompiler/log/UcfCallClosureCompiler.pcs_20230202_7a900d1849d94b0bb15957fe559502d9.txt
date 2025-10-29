@@ -1,0 +1,16 @@
+﻿[2023/02/02 13:41:37] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/02/02 13:41:37] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\05.SateraitoSignageBrowserApplication\MAIN\src\sateraito_message.py
+[2023/02/02 13:41:37] [Compile Start]ucfext_operationlog.js
+[2023/02/02 13:41:40] D:/SATERAITO-OFFICE-PROJECT/SATERAITO-WEB-APPLICATIONS/05.SateraitoSignageBrowserApplication/MAIN/src/script/debug/ucfext_operationlog.js:13:9: WARNING - [JSC_USELESS_CODE] Suspicious code. Is there a missing '+' on the previous line?
+  13| 								['signage_add', _msg.OPERATION_MANUAL_ADD]
+      								 ^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2023/02/02 13:41:40] [Compile Start]lang\default.js
+[2023/02/02 13:41:42] [Compile Start]lang\ja.js
+[2023/02/02 13:41:44] [Compile Start]lang\en.js
+[2023/02/02 13:41:46] Expand Jinja Templates include files...
+[2023/02/02 13:41:46] Src:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\05.SateraitoSignageBrowserApplication\MAIN\src\templates
+[2023/02/02 13:41:46] Dst:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\05.SateraitoSignageBrowserApplication\MAIN\src\templates_automatically
+[2023/02/02 13:41:46] Expand Jinja Templates include files fin.

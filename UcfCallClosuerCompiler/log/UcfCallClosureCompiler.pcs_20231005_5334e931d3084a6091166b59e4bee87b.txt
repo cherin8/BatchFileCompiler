@@ -1,0 +1,71 @@
+﻿[2023/10/05 13:18:48] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/10/05 13:18:48] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAIN\src\sateraito_message.py
+[2023/10/05 13:18:48] Failed load xml "D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAINd\src\lang\ALL_ALL.xml" System.IO.DirectoryNotFoundException: パス 'D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAINd\src\lang\ALL_ALL.xml' の一部が見つかりませんでした。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   場所 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   場所 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   場所 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   場所 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   場所 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   場所 System.Xml.XmlTextReaderImpl.OpenUrl()
+   場所 System.Xml.XmlTextReaderImpl.Read()
+   場所 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   場所 System.Xml.XmlDocument.Load(XmlReader reader)
+   場所 System.Xml.XmlDocument.Load(String filename)
+   場所 Ucf.CallClosureCompiler.Program.createLangPyFile()
+[2023/10/05 13:18:48] Failed load xml "D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAINd\src\lang\ja_ALL.xml" System.IO.DirectoryNotFoundException: パス 'D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAINd\src\lang\ja_ALL.xml' の一部が見つかりませんでした。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   場所 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   場所 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   場所 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   場所 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   場所 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   場所 System.Xml.XmlTextReaderImpl.OpenUrl()
+   場所 System.Xml.XmlTextReaderImpl.Read()
+   場所 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   場所 System.Xml.XmlDocument.Load(XmlReader reader)
+   場所 System.Xml.XmlDocument.Load(String filename)
+   場所 Ucf.CallClosureCompiler.Program.createLangPyFile()
+[2023/10/05 13:18:49] [Compile Start]ajax.js
+[2023/10/05 13:18:51] [Compile Start]common.js
+[2023/10/05 13:18:53] [Compile Start]jkmegamenu.js
+[2023/10/05 13:18:55] [Compile Start]jquery.crossSelect.js
+[2023/10/05 13:18:57] [Compile Start]jquery.blockUI.js
+[2023/10/05 13:19:00] [Compile Start]json.js
+[2023/10/05 13:19:02] [Compile Start]ucfext.file.js
+[2023/10/05 13:19:04] [Compile Start]ucfext.js
+[2023/10/05 13:19:07] [Compile Start]ucfext_acnt.js
+[2023/10/05 13:19:10] [Compile Start]ucfext_acs.js
+[2023/10/05 13:19:12] [Compile Start]ucfext_acslog.js
+[2023/10/05 13:19:15] [Compile Start]ucfext_operationlog.js
+[2023/10/05 13:19:17] [Compile Start]ucfext_config.js
+[2023/10/05 13:19:20] [Compile Start]ucfext_common.js
+[2023/10/05 13:19:22] [Compile Start]ucfext_task.js
+[2023/10/05 13:19:26] [Compile Start]ucfext_field.js
+[2023/10/05 13:19:30] [Compile Start]ucfext_group.js
+[2023/10/05 13:19:34] [Compile Start]ucfext_enqapplyform.js
+[2023/10/05 13:19:39] [Compile Start]ucfext.strength.js
+[2023/10/05 13:19:42] [Compile Start]init_backstretch.js
+[2023/10/05 13:19:45] [Compile Start]ext\PasswordStrength.js
+[2023/10/05 13:19:48] [Compile Start]ext\PopupGroupList.js
+[2023/10/05 13:19:52] [Compile Start]ext\PopupOrgUnitList.js
+[2023/10/05 13:19:56] [Compile Start]ext\SecurityKeyboard.js
+[2023/10/05 13:20:00] [Compile Start]ext\ucf_element_selector.js
+[2023/10/05 13:20:03] [Compile Start]lang\default.js
+[2023/10/05 13:20:06] [Compile Start]lang\ja.js
+[2023/10/05 13:20:08] [Compile Start]lang\en.js
+[2023/10/05 13:20:11] [Compile Start]ucfext_lineworks.js
+[2023/10/05 13:20:14] [Compile Start]jquery.colorbox.js
+[2023/10/05 13:20:18] [Compile Start]ucfext_operator.js
+[2023/10/05 13:20:20] [Compile Start]ucfext_user.js
+[2023/10/05 13:20:23] [Compile Start]ucfext_team.js
+[2023/10/05 13:20:26] [Compile Start]ucfext_teamsapp.js
+[2023/10/05 13:20:31] [Compile Start]ucfext_googlechat.js
+[2023/10/05 13:20:35] Expand Jinja Templates include files...
+[2023/10/05 13:20:35] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAIN\src\templates
+[2023/10/05 13:20:35] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAIN\src\templates_automatically
+[2023/10/05 13:20:35] Expand Jinja Templates include files fin.

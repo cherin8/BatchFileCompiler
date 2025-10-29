@@ -1,0 +1,18 @@
+﻿[2020/06/10 10:38:25] C:/Users/chun/PycharmProjects/sateraito-chatmagazine/src/script/debug/ucfext_chatbot.js:1044: ERROR - Object literal contains illegal duplicate key "getParamChat", disallowed in strict mode
+    getParamChat: function (chat_date) {
+    ^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2020/06/10 14:20:08] C:/Users/chun/PycharmProjects/sateraito-chatmagazine/src/script/debug/ucfext_chatbot.js:1044: ERROR - Object literal contains illegal duplicate key "getParamChat", disallowed in strict mode
+    getParamChat: function (chat_date) {
+    ^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2020/06/10 19:20:42] C:/Users/chun/PycharmProjects/sateraito-chatmagazine/src/script/debug/ucfext_chatbot.js:1044: ERROR - Object literal contains illegal duplicate key "getParamChat", disallowed in strict mode
+    getParamChat: function (chat_date) {
+    ^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+

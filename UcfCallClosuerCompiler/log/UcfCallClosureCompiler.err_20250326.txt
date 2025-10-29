@@ -1,0 +1,6 @@
+﻿[2025/03/26 16:14:59] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:2282:12: WARNING - [JSC_SUSPICIOUS_NEGATED_LEFT_OPERAND_OF_IN_OPERATOR] Suspicious negated left operand of in operator.
+  2282|         if (!sectionName in groupedUsers) {
+                    ^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+

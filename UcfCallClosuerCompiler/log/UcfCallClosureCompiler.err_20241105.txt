@@ -1,0 +1,55 @@
+﻿[2024/11/05 15:11:56] System.IO.IOException: The process cannot access the file 'D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically\default\api\checkaddonavailabledomain.xml' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   at Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   at Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   at Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludes()
+   at Ucf.CallClosureCompiler.Program.executeMainProcess()
+   at Ucf.CallClosureCompiler.Program.Main(String[] args)
+[2024/11/05 17:19:44] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:580:21: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  580|                 else if(target_action == 'event_new'){
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  581|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+...
+  584|                    
+       ^^^^^^^^^^^^^^^^^^^^
+  585|                 }
+       ^^^^^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:583:21: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  583|                 else if(target_action == 'event_custom'){
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  584|                    
+       ^^^^^^^^^^^^^^^^^^^^
+  585|                 }
+       ^^^^^^^^^^^^^^^^^
+
+0 error(s), 2 warning(s)
+
+[2024/11/05 17:20:10] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:580:21: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  580|                 else if(target_action == 'event_new'){
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  581|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+...
+  584|                    
+       ^^^^^^^^^^^^^^^^^^^^
+  585|                 }
+       ^^^^^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:583:21: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  583|                 else if(target_action == 'event_custom'){
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  584|                    
+       ^^^^^^^^^^^^^^^^^^^^
+  585|                 }
+       ^^^^^^^^^^^^^^^^^
+
+0 error(s), 2 warning(s)
+

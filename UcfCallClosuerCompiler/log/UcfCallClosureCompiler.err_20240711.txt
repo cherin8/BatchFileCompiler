@@ -1,0 +1,60 @@
+﻿[2024/07/11 18:52:11] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:66: ERROR - [JSC_PARSE_ERROR] Parse error. 'string literal' expected
+  1| import { initializeApp, getMessaging, getToken, onMessage } from `${_my_site_url}/firebase_webpack/dist/bundle.js`;
+                                                                       ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/11 18:52:49] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:66: ERROR - [JSC_PARSE_ERROR] Parse error. 'string literal' expected
+  1| import { initializeApp, getMessaging, getToken, onMessage } from `${_my_site_url}/firebase_webpack/dist/bundle.js`;
+                                                                       ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/11 18:54:06] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:65: ERROR - [JSC_PARSE_ERROR] Parse error. 'string literal' expected
+  1| import { initializeApp, getMessaging, getToken, onMessage } from _my_site_url+'/firebase_webpack/dist/bundle.js';
+                                                                      ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/11 18:56:01] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "./firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from './firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/11 18:56:27] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "/firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from '/firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/11 18:56:41] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "../firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from '../firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/11 18:57:08] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "firebase_webpack/dist/bundle.js" for resolution mode "BROWSER"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from 'firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/11 18:57:22] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "/firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from '/firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/11 18:57:32] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "./firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from './firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/11 18:59:28] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "./firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from './firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+

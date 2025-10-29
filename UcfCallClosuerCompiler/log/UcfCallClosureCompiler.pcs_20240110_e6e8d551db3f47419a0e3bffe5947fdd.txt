@@ -1,0 +1,52 @@
+﻿[2024/01/10 10:27:25] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/01/10 10:27:25] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\sateraito_message.py
+[2024/01/10 10:27:25] [Compile Start]test.js
+[2024/01/10 10:27:27] [Compile Start]areamonitoring.js
+[2024/01/10 10:27:29] [Compile Start]attendance.js
+[2024/01/10 10:27:30] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/attendance.js:588:21: ERROR - [JSC_PARSE_ERROR] Parse error. '}' expected
+  588|                     });
+                            ^
+
+1 error(s), 0 warning(s)
+
+[2024/01/10 10:27:30] [Compile Start]common.js
+[2024/01/10 10:27:32] [Compile Start]canvas_map.js
+[2024/01/10 10:27:34] [Compile Start]equipment.js
+[2024/01/10 10:27:36] [Compile Start]init_backstretch.js
+[2024/01/10 10:27:38] [Compile Start]jkmegamenu.js
+[2024/01/10 10:27:40] [Compile Start]meetingroom.js
+[2024/01/10 10:27:43] [Compile Start]moment-with-locales.js
+[2024/01/10 10:27:46] [Compile Start]regist_common.js
+[2024/01/10 10:27:48] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/regist_common.js:598:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  598|             'STATUS_UNUSED': "#color_status_unused",
+                   ^^^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/regist_common.js:599:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  599|             'STATUS_UNUSED': "#color_status_wait",
+                   ^^^^^^^^^^^^^^^
+
+2 error(s), 0 warning(s)
+
+[2024/01/10 10:27:48] [Compile Start]resource_view.js
+[2024/01/10 10:27:51] [Compile Start]sample_html.js
+[2024/01/10 10:27:53] [Compile Start]ucfext.js
+[2024/01/10 10:27:55] [Compile Start]ucfext_acnt.js
+[2024/01/10 10:27:57] [Compile Start]ucfext_acslog.js
+[2024/01/10 10:27:59] [Compile Start]ucfext_bell.js
+[2024/01/10 10:28:01] [Compile Start]ucfext_chat_common.js
+[2024/01/10 10:28:03] [Compile Start]ucfext_chatbot.js
+[2024/01/10 10:28:06] [Compile Start]ucfext_field.js
+[2024/01/10 10:28:08] [Compile Start]ucfext_operationlog.js
+[2024/01/10 10:28:10] [Compile Start]ext\PasswordStrength.js
+[2024/01/10 10:28:12] [Compile Start]ext\PopupGroupList.js
+[2024/01/10 10:28:14] [Compile Start]ext\PopupOrgUnitList.js
+[2024/01/10 10:28:16] [Compile Start]ext\PopupResourceList.js
+[2024/01/10 10:28:18] [Compile Start]ext\SecurityKeyboard.js
+[2024/01/10 10:28:20] [Compile Start]ext\ucf_element_selector.js
+[2024/01/10 10:28:22] [Compile Start]lang\default.js
+[2024/01/10 10:28:24] [Compile Start]lang\ja.js
+[2024/01/10 10:28:26] [Compile Start]lang\en.js
+[2024/01/10 10:28:30] Expand Jinja Templates include files...
+[2024/01/10 10:28:30] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates
+[2024/01/10 10:28:30] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates_automatically
+[2024/01/10 10:28:30] Expand Jinja Templates include files fin.

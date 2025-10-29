@@ -1,0 +1,18 @@
+﻿[2025/03/25 18:49:18] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2025/03/25 18:49:18] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2025/03/25 18:49:18] [Compile Start]resource_view.js
+[2025/03/25 18:49:20] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:2332:18: ERROR - [JSC_REDECLARED_VARIABLE_ERROR] Illegal redeclared variable: usernameMatch
+  2332|             const usernameMatch = inputUserName.length === 0 || existingUserName.includes(inputUserName);
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:2339:18: ERROR - [JSC_REDECLARED_VARIABLE_ERROR] Illegal redeclared variable: sectionNameMatch
+  2339|             const sectionNameMatch = selectedSection.length === 0 || exisitingSectionName === selectedSection.toLowerCase();
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+2 error(s), 0 warning(s)
+
+[2025/03/25 18:49:20] [Compile Start]resource_view_freeaddress.js
+[2025/03/25 18:49:22] Expand Jinja Templates include files...
+[2025/03/25 18:49:22] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2025/03/25 18:49:22] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2025/03/25 18:49:23] Expand Jinja Templates include files fin.

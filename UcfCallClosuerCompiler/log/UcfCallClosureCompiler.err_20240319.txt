@@ -1,0 +1,6 @@
+﻿[2024/03/19 13:19:36] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/equipment.js:101:104: ERROR - [JSC_PARSE_ERROR] Parse error. Expected '/' in regular expression literal
+  101|         var timer_content = `<div><span class="system-timer-text"> ${_msg.MSG_SCHEDULED_DURATION </span>
+                                                                                                               ^
+
+1 error(s), 0 warning(s)
+

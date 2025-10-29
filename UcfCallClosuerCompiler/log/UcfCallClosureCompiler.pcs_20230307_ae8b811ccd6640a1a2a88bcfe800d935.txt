@@ -1,0 +1,10 @@
+﻿[2023/03/07 12:30:06] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/03/07 12:30:06] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\sateraito_message.py
+[2023/03/07 12:30:07] [Compile Start]spreadsheetsync.js
+[2023/03/07 12:30:10] [Compile Start]lang\default.js
+[2023/03/07 12:30:12] [Compile Start]lang\ja.js
+[2023/03/07 12:30:14] [Compile Start]lang\en.js
+[2023/03/07 12:30:16] Expand Jinja Templates include files...
+[2023/03/07 12:30:16] Src:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\templates
+[2023/03/07 12:30:16] Dst:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\templates_automatically
+[2023/03/07 12:30:16] Expand Jinja Templates include files fin.

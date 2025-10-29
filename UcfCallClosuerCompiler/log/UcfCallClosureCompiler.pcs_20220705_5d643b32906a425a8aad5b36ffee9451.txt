@@ -1,0 +1,10 @@
+﻿[2022/07/05 15:50:10] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2022/07/05 15:50:11] Create message python file...:D:\sateraito-fitbit_dev\sateraito_fitbit\src\sateraito_message.py
+[2022/07/05 15:50:11] [Compile Start]user_console_carfare.js
+[2022/07/05 15:50:12] [Compile Start]lang\default.js
+[2022/07/05 15:50:14] [Compile Start]lang\ja.js
+[2022/07/05 15:50:15] [Compile Start]lang\en.js
+[2022/07/05 15:50:17] Expand Jinja Templates include files...
+[2022/07/05 15:50:17] Src:D:\sateraito-fitbit_dev\sateraito_fitbit\src\templates
+[2022/07/05 15:50:17] Dst:D:\sateraito-fitbit_dev\sateraito_fitbit\src\templates_automatically
+[2022/07/05 15:50:17] Expand Jinja Templates include files fin.

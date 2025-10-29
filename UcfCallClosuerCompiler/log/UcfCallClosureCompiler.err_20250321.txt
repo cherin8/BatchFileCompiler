@@ -1,0 +1,22 @@
+﻿[2025/03/21 15:03:01] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:1255:36: ERROR - [JSC_REFERENCE_BEFORE_DECLARE_ERROR] Illegal variable reference before declaration: tooltipLeft
+  1255|             tooltip.style.left = `${tooltipLeft}px`;
+                                            ^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:1256:35: ERROR - [JSC_REFERENCE_BEFORE_DECLARE_ERROR] Illegal variable reference before declaration: tooltipTop
+  1256|             tooltip.style.top = `${tooltipTop}px`;
+                                           ^^^^^^^^^^
+
+2 error(s), 0 warning(s)
+
+[2025/03/21 18:16:04] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:782:20: ERROR - [JSC_REFERENCE_BEFORE_DECLARE_ERROR] Illegal variable reference before declaration: rect
+  782|                     rect.style.backgroundColor = displayBackground;
+                           ^^^^
+
+1 error(s), 0 warning(s)
+
+[2025/03/21 18:16:15] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:782:20: ERROR - [JSC_REFERENCE_BEFORE_DECLARE_ERROR] Illegal variable reference before declaration: rect
+  782|                     rect.style.backgroundColor = displayBackground;
+                           ^^^^
+
+1 error(s), 0 warning(s)
+

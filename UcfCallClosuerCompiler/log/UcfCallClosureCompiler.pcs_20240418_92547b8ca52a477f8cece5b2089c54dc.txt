@@ -1,0 +1,13 @@
+﻿[2024/04/18 13:24:09] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/04/18 13:24:09] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2024/04/18 13:24:09] [Compile Start]resource_view.js
+[2024/04/18 13:24:10] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:1448:5: ERROR - [JSC_PARSE_ERROR] Parse error. '}' expected
+  1448|     });
+             ^
+
+1 error(s), 0 warning(s)
+
+[2024/04/18 13:24:10] Expand Jinja Templates include files...
+[2024/04/18 13:24:10] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2024/04/18 13:24:10] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2024/04/18 13:24:11] Expand Jinja Templates include files fin.

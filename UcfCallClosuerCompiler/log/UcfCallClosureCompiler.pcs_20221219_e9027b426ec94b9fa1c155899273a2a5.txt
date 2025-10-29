@@ -1,0 +1,12 @@
+﻿[2022/12/19 18:19:50] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2022/12/19 18:19:50] [Compile Start]translate.js
+[2022/12/19 18:19:52] D:/SATERAITO-OFFICE-PROJECT/SATERAITO-WEB-APPLICATIONS/05.LanguageXmlTranslationApplication/MAIN/src/js/debug/translate.js:544:9: ERROR - [JSC_REDECLARED_VARIABLE_ERROR] Illegal redeclared variable: finalTranslatedText
+  544| 				let {finalTranslatedText, speacialCharCheckErrs} = serializeXml(existingXmlText, translatedTextToJson);
+       				     ^^^^^^^^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2022/12/19 18:19:52] Expand Jinja Templates include files...
+[2022/12/19 18:19:52] Src:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\05.LanguageXmlTranslationApplication\MAIN\src\templates
+[2022/12/19 18:19:52] Dst:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\05.LanguageXmlTranslationApplication\MAIN\src\templates_automatically
+[2022/12/19 18:19:52] Expand Jinja Templates include files fin.

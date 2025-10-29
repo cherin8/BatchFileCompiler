@@ -1,0 +1,43 @@
+﻿[2021/11/19 17:51:38] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2021/11/19 17:51:38] Create message python file...:C:\Users\SateraitooOffice\Desktop\sateraito-faq\sateraito-faq\src\sateraito_message.py
+[2021/11/19 17:51:38] [Compile Start]ajax.js
+[2021/11/19 17:51:39] [Compile Start]common.js
+[2021/11/19 17:51:41] [Compile Start]jkmegamenu.js
+[2021/11/19 17:51:42] [Compile Start]jquery.crossSelect.js
+[2021/11/19 17:51:43] [Compile Start]jquery.blockUI.js
+[2021/11/19 17:51:45] [Compile Start]json.js
+[2021/11/19 17:51:46] [Compile Start]ucfext.file.js
+[2021/11/19 17:51:48] [Compile Start]ucfext.js
+[2021/11/19 17:51:50] [Compile Start]ucfext_operator.js
+[2021/11/19 17:51:51] [Compile Start]ucfext_acs.js
+[2021/11/19 17:51:52] [Compile Start]ucfext_acslog.js
+[2021/11/19 17:51:54] [Compile Start]ucfext_operationlog.js
+[2021/11/19 17:51:55] [Compile Start]ucfext_config.js
+[2021/11/19 17:51:56] [Compile Start]ucfext_task.js
+[2021/11/19 17:51:57] [Compile Start]ucfext_field.js
+[2021/11/19 17:51:59] [Compile Start]ucfext.strength.js
+[2021/11/19 17:52:00] [Compile Start]xmleditor.js
+[2021/11/19 17:52:01] [Compile Start]init_backstretch.js
+[2021/11/19 17:52:02] [Compile Start]ext\PasswordStrength.js
+[2021/11/19 17:52:04] [Compile Start]ext\PopupGroupList.js
+[2021/11/19 17:52:05] [Compile Start]ext\PopupOrgUnitList.js
+[2021/11/19 17:52:06] [Compile Start]ext\SecurityKeyboard.js
+[2021/11/19 17:52:08] [Compile Start]ext\ucf_element_selector.js
+[2021/11/19 17:52:09] [Compile Start]lang\default.js
+[2021/11/19 17:52:10] [Compile Start]lang\ja.js
+[2021/11/19 17:52:11] [Compile Start]lang\en.js
+[2021/11/19 17:52:13] [Compile Start]ucfext_lineworks.js
+[2021/11/19 17:52:14] [Compile Start]ucfext_categorymaster.js
+[2021/11/19 17:52:15] [Compile Start]ucfext_faqmaster.js
+[2021/11/19 17:52:16] [Compile Start]ucfext_dictionary.js
+[2021/11/19 17:52:18] [Compile Start]faqsite_common.js
+[2021/11/19 17:52:19] [Compile Start]ucfext_chat_common.js
+[2021/11/19 17:52:21] [Compile Start]ucfext_chatbot.js
+[2021/11/19 17:52:23] [Compile Start]ucfext_teams.js
+[2021/11/19 17:52:24] [Compile Start]ucfext_teamsapp.js
+[2021/11/19 17:52:26] [Compile Start]ucfext_hangouts.js
+[2021/11/19 17:52:28] [Compile Start]ucfext_slack.js
+[2021/11/19 17:52:29] Expand Jinja Templates include files...
+[2021/11/19 17:52:29] Src:C:\Users\SateraitooOffice\Desktop\sateraito-faq\sateraito-faq\src\templates
+[2021/11/19 17:52:29] Dst:C:\Users\SateraitooOffice\Desktop\sateraito-faq\sateraito-faq\src\templates_automatically
+[2021/11/19 17:52:29] Expand Jinja Templates include files fin.

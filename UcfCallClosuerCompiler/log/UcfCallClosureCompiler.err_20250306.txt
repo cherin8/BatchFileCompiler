@@ -1,0 +1,6 @@
+﻿[2025/03/06 12:27:02] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:212:36: ERROR - [JSC_PARSE_ERROR] Parse error. ')' expected
+  212|     const resizeCoordsAndAvatars = (this, prefix) => {
+                                           ^
+
+1 error(s), 0 warning(s)
+

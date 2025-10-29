@@ -1,0 +1,270 @@
+﻿[2024/07/03 13:21:31] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_chat_common.js:2:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "firebase/app" for resolution mode "BROWSER"
+  2| import firebase from 'firebase/app';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/03 13:21:37] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_chat_common.js:2:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "firebase/app" for resolution mode "BROWSER"
+  2| import firebase from 'firebase/app';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/03 13:23:37] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_chat_common.js:2:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "firebase/app" for resolution mode "BROWSER"
+  2| import firebase from 'firebase/app';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/03 13:35:31] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_chat_common.js:2:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "firebase/app" for resolution mode "BROWSER"
+  2| import firebase from 'firebase/app';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/03 14:26:00] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_chat_common.js:2:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "firebase/app" for resolution mode "BROWSER"
+  2| import firebase from 'firebase/app';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/03 15:09:32] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:2:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "firebase/app" for resolution mode "BROWSER"
+  2| import firebase from 'firebase/app';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/03 15:14:28] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:2:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "firebase/app" for resolution mode "BROWSER"
+  2| import firebase from 'firebase/app';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/03 15:22:31] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:2:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "firebase/app" for resolution mode "BROWSER"
+  2| import firebase from 'firebase/app';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/03 15:54:16] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:5:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js" for resolution mode "BROWSER"
+  5| import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js'
+     ^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:6:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js" for resolution mode "BROWSER"
+  6| import { getMessaging } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js'
+     ^
+
+2 error(s), 0 warning(s)
+
+[2024/07/03 15:57:14] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:3:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js" for resolution mode "BROWSER"
+  3| import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js'
+     ^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:4:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js" for resolution mode "BROWSER"
+  4| import { getMessaging } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js'
+     ^
+
+2 error(s), 0 warning(s)
+
+[2024/07/03 15:59:13] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:3:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js" for resolution mode "BROWSER"
+  3| import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js'
+     ^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:4:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js" for resolution mode "BROWSER"
+  4| import { getMessaging } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js'
+     ^
+
+2 error(s), 0 warning(s)
+
+[2024/07/03 16:02:46] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:3:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js" for resolution mode "BROWSER"
+  3| import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js'
+     ^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:4:0: ERROR - [JSC_INVALID_MODULE_PATH] Invalid module path "https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js" for resolution mode "BROWSER"
+  4| import { getMessaging } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging.js'
+     ^
+
+2 error(s), 0 warning(s)
+
+[2024/07/03 18:20:07] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:89:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  89|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  90|               .then((refreshedToken) => {
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  92|                     
+      ^^^^^^^^^^^^^^^^^^^^^
+  93|             })
+      ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:23:08] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:89:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  89|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  90|               .then((refreshedToken) => {
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  92|                     
+      ^^^^^^^^^^^^^^^^^^^^^
+  93|             })
+      ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:34:03] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:100:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  100|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  101|               .then((refreshedToken) => {
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  103|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+  104|             })
+       ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:37:22] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:100:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  100|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  101|               .then((refreshedToken) => {
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  103|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+  104|             })
+       ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:38:00] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:100:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  100|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  101|               .then((refreshedToken) => {
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  103|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+  104|             })
+       ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:39:18] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:100:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  100|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  101|               .then((refreshedToken) => {
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  103|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+  104|             })
+       ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:40:12] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:100:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  100|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  101|               .then((refreshedToken) => {
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  103|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+  104|             })
+       ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:44:25] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:100:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  100|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  101|               .then((refreshedToken) => {
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  103|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+  104|             })
+       ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:48:27] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:100:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  100|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  101|               .then((refreshedToken) => {
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  103|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+  104|             })
+       ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:51:41] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:100:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  100|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  101|               .then((refreshedToken) => {
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  103|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+  104|             })
+       ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 18:59:34] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:100:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  100|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  101|               .then((refreshedToken) => {
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  103|                     
+       ^^^^^^^^^^^^^^^^^^^^^
+  104|             })
+       ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 19:03:09] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:89:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  89|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  90|               .then((refreshedToken) => {
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  92|                     
+      ^^^^^^^^^^^^^^^^^^^^^
+  93|             })
+      ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 19:08:09] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:89:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  89|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  90|               .then((refreshedToken) => {
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  92|                     
+      ^^^^^^^^^^^^^^^^^^^^^
+  93|             })
+      ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/03 19:17:19] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_notification.js:89:12: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  89|             _firebase_messaging.getToken(messaging, {vapidKey:'BGybJ_ji6xH8OHKUhuoEsZnaiI4zk13oXWs4FGokoq5i6_61_8GlNsg82pyVknt_uekIV-ZSnXIy1-zm9O74u-8'})
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  90|               .then((refreshedToken) => {
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  92|                     
+      ^^^^^^^^^^^^^^^^^^^^^
+  93|             })
+      ^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+

@@ -1,0 +1,25 @@
+﻿[2025/03/03 14:07:28] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2025/03/03 14:07:28] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2025/03/03 14:07:28] [Compile Start]canvas_map.js
+[2025/03/03 14:07:30] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:682:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: x1
+  682|                     x1 *= scaleX;
+                           ^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:683:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: y1
+  683|                     y1 *= scaleY;
+                           ^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:684:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: x2
+  684|                     x2 *= scaleX;
+                           ^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:685:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: y2
+  685|                     y2 *= scaleY;
+                           ^^
+
+4 error(s), 0 warning(s)
+
+[2025/03/03 14:07:31] Expand Jinja Templates include files...
+[2025/03/03 14:07:31] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2025/03/03 14:07:31] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2025/03/03 14:07:31] Expand Jinja Templates include files fin.

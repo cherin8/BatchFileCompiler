@@ -1,0 +1,5 @@
+﻿[2022/12/13 11:06:58] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2022/12/13 11:06:58] Expand Jinja Templates include files...
+[2022/12/13 11:06:58] Src:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\05.LanguageXmlTranslationApplication\MAIN\src\templates
+[2022/12/13 11:06:58] Dst:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\05.LanguageXmlTranslationApplication\MAIN\src\templates_automatically
+[2022/12/13 11:06:58] Expand Jinja Templates include files fin.

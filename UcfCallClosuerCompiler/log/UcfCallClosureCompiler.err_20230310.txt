@@ -1,0 +1,6 @@
+﻿[2023/03/10 17:06:00] D:/SATERAITO-OFFICE-PROJECT/SATERAITO-WEB-APPLICATIONS/03.SateraitoGlassApplication/MAIN/src/script/debug/lang/default.js:2210:34: ERROR - [JSC_PARSE_ERROR] Parse error. '}' expected
+  2210| 	,'MSG_SPREADSHEET_SYNC_HEADER': u'スプレッドシート同期設定'
+        	                                 ^
+
+1 error(s), 0 warning(s)
+

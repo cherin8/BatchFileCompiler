@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<!--
+GAE版SSO用難読化設定
+-->
+<Ucf>
+
+	<CompilerPath><![CDATA[d:\program files\closurecompiler\compiler.jar]]></CompilerPath>
+	<!-- WHITESPACE_ONLY,SIMPLE_OPTIMIZATIONS -->
+	<CompilationLevel><![CDATA[SIMPLE_OPTIMIZATIONS]]></CompilationLevel>
+	<ScriptSourceFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-sso_dev\script\debug\]]></ScriptSourceFolderPath>
+	<ScriptOutputFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-sso_dev\script\]]></ScriptOutputFolderPath>
+
+	<DatFolderPath><![CDATA[dat]]></DatFolderPath>
+	<UpdateTimeCheckOption><![CDATA[CHECK]]></UpdateTimeCheckOption>
+
+	<TargetFiles>
+		<FilePath><![CDATA[ajax.js]]></FilePath>
+		<FilePath><![CDATA[common.js]]></FilePath>
+		<FilePath><![CDATA[jkmegamenu.js]]></FilePath>
+		<FilePath><![CDATA[jquery.crossSelect.js]]></FilePath>
+		<FilePath><![CDATA[json.js]]></FilePath>
+		<FilePath><![CDATA[prototype.js]]></FilePath>
+		<FilePath><![CDATA[ucfext.file.js]]></FilePath>
+		<FilePath><![CDATA[ucfext.js]]></FilePath>
+		<FilePath><![CDATA[ucfext_acnt.js]]></FilePath>
+		<FilePath><![CDATA[ucfext_acs.js]]></FilePath>
+		<FilePath><![CDATA[ucfext_acsapply.js]]></FilePath>
+		<FilePath><![CDATA[ucfext_acslog.js]]></FilePath>
+		<FilePath><![CDATA[ucfext_config.js]]></FilePath>
+		<FilePath><![CDATA[ucfext_field.js]]></FilePath>
+		<FilePath><![CDATA[ucfext_group.js]]></FilePath>
+		<FilePath><![CDATA[ucfext_orgunit.js]]></FilePath>
+		<FilePath><![CDATA[ucfext_profile.js]]></FilePath>
+		<FilePath><![CDATA[ucfext_task.js]]></FilePath>
+		<FilePath><![CDATA[xmleditor.js]]></FilePath>
+		<FilePath><![CDATA[ext\PasswordStrength.js]]></FilePath>
+		<FilePath><![CDATA[ext\PopupGroupList.js]]></FilePath>
+		<FilePath><![CDATA[ext\PopupOrgUnitList.js]]></FilePath>
+		<FilePath><![CDATA[ext\SecurityKeyboard.js]]></FilePath>
+		<FilePath><![CDATA[ext\ucfportal.js]]></FilePath>
+		<FilePath><![CDATA[ext\ucf_element_selector.js]]></FilePath>
+		<FilePath><![CDATA[lang\default.js]]></FilePath>
+		<FilePath><![CDATA[lang\ja.js]]></FilePath>
+		<FilePath><![CDATA[lang\en.js]]></FilePath>
+	</TargetFiles>
+
+	<!-- 難読化に先だってメッセージ定義ファイルからJavaScriptファイルを作成 -->
+	<CreateLanguageJsFiles active="on" >
+		<LangDefineFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-sso_dev\lang]]></LangDefineFolderPath>
+		<JsOutputFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-sso_dev\script\debug\lang]]></JsOutputFolderPath>
+		<DefaultLanguage>ALL_ALL</DefaultLanguage>
+		<SemiDefaultLanguage>ja_ALL</SemiDefaultLanguage>
+    <JsFlagLanguage>ja_ALL</JsFlagLanguage><!-- JsFlagLanguage:指定するとjs="on" フラグとして指定言語の設定をすべての言語ファイルに適用 2019.07.11 -->
+    <TargetLanguages>
+			<Language js_file_name="default"><![CDATA[ALL_ALL]]></Language>
+			<Language js_file_name="ja"><![CDATA[ja_ALL]]></Language>
+			<Language js_file_name="en" use_default_define="on"><![CDATA[en_ALL]]></Language>
+			<Language js_file_name="cn"><![CDATA[cn_ALL]]></Language>
+		</TargetLanguages>
+	</CreateLanguageJsFiles>
+
+	<!-- メッセージ定義ファイルからメッセージ定義pyファイルを作成 -->
+	<CreateLanguagePyFile active="on" >
+		<LangDefineFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-sso_dev\lang]]></LangDefineFolderPath>
+		<PyOutputFilePath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-sso_dev\sateraito_message.py]]></PyOutputFilePath>
+		<DefaultLanguage>ALL_ALL</DefaultLanguage>
+		<SemiDefaultLanguage>ja_ALL</SemiDefaultLanguage>
+		<TargetLanguages>
+			<Language lang="en"><![CDATA[ALL_ALL]]></Language>
+			<Language lang="ja"><![CDATA[ja_ALL]]></Language>
+			<Language lang="cn"><![CDATA[cn_ALL]]></Language>
+		</TargetLanguages>
+		<PyHeader>
+			<![CDATA[
+#!/usr/bin/python
+# coding: utf-8
+
+
+'''
+sateraito_message.py
+@author: Takayuki ASAO
+'''
+	
+]]>
+		</PyHeader>
+		<PyFooter>
+			<![CDATA[
+		]]>
+		</PyFooter>
+	</CreateLanguagePyFile>
+
+	<!-- Jinjaテンプレートの「include」を展開してコピー -->
+	<ExpandJinjaTemplateIncludes active="on" >
+		<SrcTemplatesFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-sso_dev\templates]]></SrcTemplatesFolderPath>
+		<DstTemplatesFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-sso_dev\templates_automatically]]></DstTemplatesFolderPath>
+	</ExpandJinjaTemplateIncludes>
+
+	<!-- 文字列の置換設定 -->
+	<ExchangeMessages>
+
+		<!-- データアクセス許可方法 -->
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[http://goo.gl/Q0RiHt]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en/Home/aboutacceptdataacs]]></Dst>
+		</Item>
+		<!-- 新Google Apps Marketplace 対応（英語版は不要？） -->
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[http://goo.gl/ySEgEv]]></Src>
+			<Dst><![CDATA[http://goo.gl/ySEgEv]]></Dst>
+		</Item>
+		<!-- 色コード -->
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[http://www.scollabo.com/banban/lectur/websafe.html]]></Src>
+			<Dst><![CDATA[http://www.scollabo.com/banban/lectur/websafe.html]]></Dst>
+		</Item>
+		<!-- 確認くん -->
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[http://www.ugtop.com/spill.shtml]]></Src>
+			<Dst><![CDATA[http://www.ugtop.com/spill.shtml]]></Dst>
+		</Item>
+		<!-- ホームページ -->
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[http://www.sateraito.jp]]></Src>
+			<Dst><![CDATA[http://www.sateraito-global.com]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu/Home/aboutacceptdataacs]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en/Home/aboutacceptdataacs]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu/Home/add-on/ssoclient]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en/Home/add-on/ssoclient]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu/Home/sekyuritiburauzamanyuaru]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en/Home/securitybrowser]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu/Home/sso/]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en/Home/sso/]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu/Home/sso#]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en/Home/sso#]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu/Home/sso]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en/Home/sso]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en]]></Dst>
+		</Item>
+	</ExchangeMessages>
+
+	<!-- 各種メール送信設定 -->
+	<MailInfo>
+		<!-- 同期完了時管理者メール -->
+		<SyncManageMail active="off" template_path="" />
+	</MailInfo>
+
+	<!-- 各種オプション設定 -->
+	<Options>
+
+	</Options>
+
+
+
+</Ucf>

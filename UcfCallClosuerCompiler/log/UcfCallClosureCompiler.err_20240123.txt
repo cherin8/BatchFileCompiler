@@ -1,0 +1,42 @@
+﻿[2024/01/23 18:44:21] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/attendance.js:588:21: ERROR - [JSC_PARSE_ERROR] Parse error. '}' expected
+  588|                     });
+                            ^
+
+1 error(s), 0 warning(s)
+
+[2024/01/23 18:44:41] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/regist_common.js:598:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  598|             'STATUS_UNUSED': "#color_status_unused",
+                   ^^^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/regist_common.js:599:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  599|             'STATUS_UNUSED': "#color_status_wait",
+                   ^^^^^^^^^^^^^^^
+
+2 error(s), 0 warning(s)
+
+[2024/01/23 18:51:08] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/attendance.js:588:21: ERROR - [JSC_PARSE_ERROR] Parse error. '}' expected
+  588|                     });
+                            ^
+
+1 error(s), 0 warning(s)
+
+[2024/01/23 18:51:11] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/regist_common.js:598:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  598|             'STATUS_UNUSED': "#color_status_unused",
+                   ^^^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/regist_common.js:599:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  599|             'STATUS_UNUSED': "#color_status_wait",
+                   ^^^^^^^^^^^^^^^
+
+2 error(s), 0 warning(s)
+
+[2024/01/23 18:52:45] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/regist_common.js:598:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  598|             'STATUS_UNUSED': "#color_status_unused",
+                   ^^^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/regist_common.js:599:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  599|             'STATUS_UNUSED': "#color_status_wait",
+                   ^^^^^^^^^^^^^^^
+
+2 error(s), 0 warning(s)
+

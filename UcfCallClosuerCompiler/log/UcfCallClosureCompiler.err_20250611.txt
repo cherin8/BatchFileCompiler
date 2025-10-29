@@ -1,0 +1,6 @@
+﻿[2025/06/11 17:25:22] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/resource_view_equipment.js:1775:14: ERROR - [JSC_REDECLARED_VARIABLE_ERROR] Illegal redeclared variable: existingSections
+  1775|         const existingSections = Array.from($('#eq-section-container .eq-section-group'));
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+

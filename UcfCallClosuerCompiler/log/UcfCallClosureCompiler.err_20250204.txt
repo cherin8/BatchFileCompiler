@@ -1,0 +1,6 @@
+﻿[2025/02/04 11:21:13] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:322:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: circleY
+  322|                     circleY += 30; // Move it down
+                           ^^^^^^^
+
+1 error(s), 0 warning(s)
+

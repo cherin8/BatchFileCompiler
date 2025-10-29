@@ -1,0 +1,6 @@
+﻿[2023/02/02 13:41:40] D:/SATERAITO-OFFICE-PROJECT/SATERAITO-WEB-APPLICATIONS/05.SateraitoSignageBrowserApplication/MAIN/src/script/debug/ucfext_operationlog.js:13:9: WARNING - [JSC_USELESS_CODE] Suspicious code. Is there a missing '+' on the previous line?
+  13| 								['signage_add', _msg.OPERATION_MANUAL_ADD]
+      								 ^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+

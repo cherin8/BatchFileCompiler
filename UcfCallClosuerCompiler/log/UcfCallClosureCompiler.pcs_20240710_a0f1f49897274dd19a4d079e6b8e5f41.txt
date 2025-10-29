@@ -1,0 +1,8 @@
+﻿[2024/07/10 15:29:07] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/07/10 15:29:07] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2024/07/10 15:29:07] [Compile Start]ucfext_bell.js
+[2024/07/10 15:29:10] [Compile Start]firebase_operation.js
+[2024/07/10 15:29:12] Expand Jinja Templates include files...
+[2024/07/10 15:29:12] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2024/07/10 15:29:12] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2024/07/10 15:29:12] Expand Jinja Templates include files fin.

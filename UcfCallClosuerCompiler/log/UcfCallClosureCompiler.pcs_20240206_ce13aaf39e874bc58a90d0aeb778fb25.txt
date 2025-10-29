@@ -1,0 +1,37 @@
+﻿[2024/02/06 16:53:42] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/02/06 16:53:42] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\sateraito_message.py
+[2024/02/06 16:53:42] [Compile Start]common.js
+[2024/02/06 16:53:45] [Compile Start]init_backstretch.js
+[2024/02/06 16:53:47] [Compile Start]jkmegamenu.js
+[2024/02/06 16:53:52] [Compile Start]moment-with-locales.js
+[2024/02/06 16:53:56] [Compile Start]ucfext.js
+[2024/02/06 16:53:59] [Compile Start]ucfext_acnt.js
+[2024/02/06 16:54:01] [Compile Start]ucfext_acslog.js
+[2024/02/06 16:54:03] [Compile Start]ucfext_bell.js
+[2024/02/06 16:54:05] [Compile Start]ucfext_chat_common.js
+[2024/02/06 16:54:08] [Compile Start]ucfext_field.js
+[2024/02/06 16:54:10] [Compile Start]ucfext_operationlog.js
+[2024/02/06 16:54:12] [Compile Start]ext\PasswordStrength.js
+[2024/02/06 16:54:14] [Compile Start]ext\PopupOrgUnitList.js
+[2024/02/06 16:54:16] [Compile Start]ext\SecurityKeyboard.js
+[2024/02/06 16:54:19] [Compile Start]ext\ucf_element_selector.js
+[2024/02/06 16:54:21] [Compile Start]lang\default.js
+[2024/02/06 16:54:23] [Compile Start]lang\ja.js
+[2024/02/06 16:54:25] [Compile Start]lang\en.js
+[2024/02/06 16:54:31] Expand Jinja Templates include files...
+[2024/02/06 16:54:31] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates
+[2024/02/06 16:54:31] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates_automatically
+[2024/02/06 16:54:33] System.IO.IOException: 別のプロセスで使用されているため、プロセスはファイル 'D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates\default\pc\tenant\index.html' にアクセスできません。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   場所 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   場所 System.IO.FileInfo.OpenRead()
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneFile(FileInfo fTemplate)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludesOneDirectory(DirectoryInfo d)
+   場所 Ucf.CallClosureCompiler.Program.expandJinjaTemplateIncludes()
+   場所 Ucf.CallClosureCompiler.Program.executeMainProcess()
+   場所 Ucf.CallClosureCompiler.Program.Main(String[] args)

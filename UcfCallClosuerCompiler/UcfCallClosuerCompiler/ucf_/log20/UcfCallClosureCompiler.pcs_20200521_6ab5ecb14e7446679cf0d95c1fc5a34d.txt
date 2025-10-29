@@ -1,0 +1,17 @@
+﻿[2020/05/21 15:46:38] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2020/05/21 15:46:38] Create message python file...:C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\sateraito_message.py
+[2020/05/21 15:46:39] [Compile Start]lang\default.js
+[2020/05/21 15:46:41] [Compile Start]lang\ja.js
+[2020/05/21 15:46:44] [Compile Start]lang\en.js
+[2020/05/21 15:46:46] [Compile Start]ucfext_chat_common.js
+[2020/05/21 15:46:49] [Compile Start]ucfext_chatbot.js
+[2020/05/21 15:46:52] C:/Users/chun/PycharmProjects/sateraito-chatmagazine/src/script/debug/ucfext_chatbot.js:1394: WARNING - Suspicious code. This code lacks side-effects. Is there a bug?
+        if (jsonData.code == 0) {
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2020/05/21 15:46:52] Expand Jinja Templates include files...
+[2020/05/21 15:46:52] Src:C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\templates
+[2020/05/21 15:46:52] Dst:C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\templates_automatically
+[2020/05/21 15:46:54] Expand Jinja Templates include files fin.

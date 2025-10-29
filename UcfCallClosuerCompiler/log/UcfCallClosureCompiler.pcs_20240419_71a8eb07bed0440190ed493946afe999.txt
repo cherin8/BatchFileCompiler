@@ -1,0 +1,17 @@
+﻿[2024/04/19 15:34:03] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/04/19 15:34:03] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2024/04/19 15:34:03] [Compile Start]meetingroom.js
+[2024/04/19 15:34:06] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/meetingroom.js:656:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  656|             if(_aut != "preview"){
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  657|                 //settingCondition(data);
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  658|             }
+       ^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/04/19 15:34:06] Expand Jinja Templates include files...
+[2024/04/19 15:34:06] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2024/04/19 15:34:06] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2024/04/19 15:34:06] Expand Jinja Templates include files fin.

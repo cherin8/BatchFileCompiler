@@ -1,0 +1,10 @@
+﻿[2024/02/02 11:04:34] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/MAIN/src/script/debug/ucfext_lineworks.js:56:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  56|             if(api_version == 'ver1'){
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  57|                 
+      ^^^^^^^^^^^^^^^^^
+  58|             }
+      ^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+

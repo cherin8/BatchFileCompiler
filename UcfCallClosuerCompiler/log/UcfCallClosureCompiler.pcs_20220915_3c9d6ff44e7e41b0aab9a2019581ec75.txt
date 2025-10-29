@@ -1,0 +1,7 @@
+﻿[2022/09/15 11:24:43] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2022/09/15 11:24:44] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\sateraito_message.py
+[2022/09/15 11:24:44] [Compile Start]ucfext_field.js
+[2022/09/15 11:24:46] Expand Jinja Templates include files...
+[2022/09/15 11:24:46] Src:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\templates
+[2022/09/15 11:24:46] Dst:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\templates_automatically
+[2022/09/15 11:24:46] Expand Jinja Templates include files fin.

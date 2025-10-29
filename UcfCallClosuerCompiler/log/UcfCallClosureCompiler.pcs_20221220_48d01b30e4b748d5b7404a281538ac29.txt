@@ -1,0 +1,6 @@
+﻿[2022/12/20 11:41:34] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2022/12/20 11:41:34] [Compile Start]translate.js
+[2022/12/20 11:41:37] Expand Jinja Templates include files...
+[2022/12/20 11:41:37] Src:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\05.LanguageXmlTranslationApplication\MAIN\src\templates
+[2022/12/20 11:41:37] Dst:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\05.LanguageXmlTranslationApplication\MAIN\src\templates_automatically
+[2022/12/20 11:41:37] Expand Jinja Templates include files fin.

@@ -1,0 +1,6 @@
+﻿[2023/10/20 18:25:58] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/10/20 18:25:58] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAIN\src\sateraito_message.py
+[2023/10/20 18:25:58] Expand Jinja Templates include files...
+[2023/10/20 18:25:58] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAIN\src\templates
+[2023/10/20 18:25:58] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAIN\src\templates_automatically
+[2023/10/20 18:25:58] Expand Jinja Templates include files fin.

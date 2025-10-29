@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="shift_jis" ?>
+<!--
+GAE版ワークフロー用難読化設定
+-->
+<Ucf>
+
+	<CompilerPath><![CDATA[d:\program files\closurecompiler\compiler.jar]]></CompilerPath>
+	<!-- WHITESPACE_ONLY,SIMPLE_OPTIMIZATIONS -->
+	<CompilationLevel><![CDATA[SIMPLE_OPTIMIZATIONS]]></CompilationLevel>
+	<ScriptSourceFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-workflow_dev\src\js\debug\]]></ScriptSourceFolderPath>
+	<ScriptOutputFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-workflow_dev\src\js\]]></ScriptOutputFolderPath>
+
+	<DatFolderPath><![CDATA[dat_test]]></DatFolderPath>
+	<UpdateTimeCheckOption><![CDATA[CHECK]]></UpdateTimeCheckOption>
+
+	<TargetFiles>
+		<FilePath><![CDATA[admin_console.js]]></FilePath>
+		<FilePath><![CDATA[sateraito_workflow.js]]></FilePath>
+		<FilePath><![CDATA[sateraito_workflow_common.js]]></FilePath>
+		<FilePath><![CDATA[sateraito_workflow_lang.js]]></FilePath>
+	</TargetFiles>
+
+	<!-- メッセージ定義ファイルをコピー（同時に文字列置換） -->
+	<CopyLangDefineFiles active="on" with_exchange_messages="on" >
+		<SrcFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-workflow_dev\src\lang]]></SrcFolderPath>
+		<DstFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-workflow_dev\src\params\lang]]></DstFolderPath>
+	</CopyLangDefineFiles>
+
+	<!-- 難読化に先だってメッセージ定義ファイルからJavaScriptファイルを作成 -->
+	<CreateLanguageJsFiles active="on" type="2">
+		<LangDefineFolderPath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-workflow_dev\src\lang]]></LangDefineFolderPath>
+		<JsOutputFilePath><![CDATA[D:\dev_ucfweb\www_gae\sateraito-apps-workflow_dev\src\js\debug\sateraito_workflow_lang.js]]></JsOutputFilePath>
+		<DefaultLanguage>ALL_ALL</DefaultLanguage>
+		<SemiDefaultLanguage>ja_ALL</SemiDefaultLanguage>
+    <JsFlagLanguage>ja_ALL</JsFlagLanguage><!-- JsFlagLanguage:指定するとjs="on" フラグとして指定言語の設定をすべての言語ファイルに適用 2019.07.11 -->
+    <TargetLanguages>
+			<Language><![CDATA[ALL_ALL]]></Language>
+			<Language><![CDATA[en_ALL]]></Language>
+		</TargetLanguages>
+		<JsHeader>
+			<![CDATA[
+(function(){
+	
+	MyLang = {
+		
+		locale: 'ja',
+		
+]]>
+		</JsHeader>
+		<JsFooter>
+			<![CDATA[
+
+				
+		/**
+		 * getLocale
+		 *
+		 * @return {string} ロケール（'ja', 'en'等）
+		 */
+		getLocale: function()
+		{
+			if (typeof(SATERAITO_LANG) != 'undefined') {
+				return SATERAITO_LANG;
+			}
+			return MyLang.locale;
+		},
+		
+		/**
+		 * setLocale
+		 *
+		 * @param {string} ロケール
+		 */
+		setLocale: function(aLocale)
+		{
+			MyLang.locale = aLocale;
+		},
+		
+		/**
+		 * getMsg
+		 *
+		 * メッセージ取得
+		 *
+		 * @param {String} aMsgCd メッセージコード
+		 * @return {String} 国際化メッセージ
+		 */
+		getMsg: function(aMsgCd)
+		{
+			var locale = MyLang.getLocale();
+			if (locale == 'en' || locale == 'en-gb' || locale == 'en_GB') {
+				return MyLang.msgData_en_ALL[aMsgCd];
+			}
+			
+			return MyLang.msgData_ALL_ALL[aMsgCd];
+		}
+
+	};
+	
+})();
+
+							
+			
+		]]></JsFooter>
+	</CreateLanguageJsFiles>
+
+	<!-- 文字列の置換設定 -->
+	<ExchangeMessages>
+		<!-- ガジェット追加方法 -->
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[http://goo.gl/KkrvAk]]></Src>
+			<Dst><![CDATA[https://goo.gl/lTI2v1]]></Dst>
+		</Item>
+
+		<!-- 新Google Apps Marketplace 対応（英語版は不要？） -->
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[http://goo.gl/ySEgEv]]></Src>
+			<Dst><![CDATA[http://goo.gl/ySEgEv]]></Dst>
+		</Item>
+
+		<!-- ホームページ -->
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[http://www.sateraito.jp]]></Src>
+			<Dst><![CDATA[http://www.sateraito-global.com]]></Dst>
+		</Item>
+
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://nextset-public.sharepoint.com/manual_workflow]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/nextset-manual-en/Home/workflow]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu/Home/wakufuro-ji-neng/]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en/Home/workflow/]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu/Home/wakufuro-ji-neng#]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en/Home/workflow#]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu/Home/wakufuro-ji-neng]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en/Home/workflow]]></Dst>
+		</Item>
+		<Item except_lang="ja,ja_ALL" >
+			<Src><![CDATA[https://sites.google.com/a/sateraito.jp/sateraito-dounyuu]]></Src>
+			<Dst><![CDATA[https://sites.google.com/a/sateraito.jp/sateraitooffice-manual-en]]></Dst>
+		</Item>
+	</ExchangeMessages>	
+
+	<!-- 各種メール送信設定 -->
+	<MailInfo>
+		<!-- 同期完了時管理者メール -->
+		<SyncManageMail active="off" template_path="" />
+	</MailInfo>
+
+	<!-- 各種オプション設定 -->
+	<Options>
+
+	</Options>
+
+
+
+</Ucf>

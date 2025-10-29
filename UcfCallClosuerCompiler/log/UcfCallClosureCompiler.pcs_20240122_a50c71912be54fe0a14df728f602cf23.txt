@@ -1,0 +1,32 @@
+﻿[2024/01/22 19:42:46] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/01/22 19:42:46] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\GITHUB\PULL\src\sateraito_message.py
+[2024/01/22 19:42:46] [Compile Start]attendance.js
+[2024/01/22 19:42:48] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/GITHUB/PULL/src/script/debug/attendance.js:588:21: ERROR - [JSC_PARSE_ERROR] Parse error. '}' expected
+  588|                     });
+                            ^
+
+1 error(s), 0 warning(s)
+
+[2024/01/22 19:42:48] [Compile Start]meetingroom.js
+[2024/01/22 19:42:50] [Compile Start]regist_common.js
+[2024/01/22 19:42:52] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/GITHUB/PULL/src/script/debug/regist_common.js:598:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  598|             'STATUS_UNUSED': "#color_status_unused",
+                   ^^^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/GITHUB/PULL/src/script/debug/regist_common.js:599:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  599|             'STATUS_UNUSED': "#color_status_wait",
+                   ^^^^^^^^^^^^^^^
+
+2 error(s), 0 warning(s)
+
+[2024/01/22 19:42:52] [Compile Start]resource_view.js
+[2024/01/22 19:42:55] [Compile Start]sample_html.js
+[2024/01/22 19:42:57] [Compile Start]ucfext_bell.js
+[2024/01/22 19:42:59] [Compile Start]ucfext_chatbot.js
+[2024/01/22 19:43:01] [Compile Start]lang\default.js
+[2024/01/22 19:43:03] [Compile Start]lang\ja.js
+[2024/01/22 19:43:06] [Compile Start]lang\en.js
+[2024/01/22 19:43:08] Expand Jinja Templates include files...
+[2024/01/22 19:43:08] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\GITHUB\PULL\src\templates
+[2024/01/22 19:43:08] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\GITHUB\PULL\src\templates_automatically
+[2024/01/22 19:43:08] Expand Jinja Templates include files fin.

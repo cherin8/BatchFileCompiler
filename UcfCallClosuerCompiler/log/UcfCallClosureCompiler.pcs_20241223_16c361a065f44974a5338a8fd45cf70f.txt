@@ -1,0 +1,13 @@
+﻿[2024/12/23 12:31:34] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/12/23 12:31:34] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2024/12/23 12:31:35] [Compile Start]resource_view.js
+[2024/12/23 12:31:36] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:6569:8: ERROR - [JSC_REDECLARED_VARIABLE_ERROR] Illegal redeclared variable: userName
+  6569|     let userName = userName.charAt(0).toUpperCase();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2024/12/23 12:31:37] Expand Jinja Templates include files...
+[2024/12/23 12:31:37] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2024/12/23 12:31:37] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2024/12/23 12:31:37] Expand Jinja Templates include files fin.

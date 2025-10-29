@@ -1,0 +1,12 @@
+﻿[2020/04/30 13:32:27] C:/Users/chun/PycharmProjects/sateraito-chatmagazine/src/script/debug/ucfext_chatbot.js:1346: WARNING - Suspicious code. This code lacks side-effects. Is there a bug?
+        if (jsonData.code == 0) {
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2020/04/30 14:46:30] C:/Users/chun/PycharmProjects/sateraito-chatmagazine/src/script/debug/ucfext_chatbot.js:1346: WARNING - Suspicious code. This code lacks side-effects. Is there a bug?
+        if (jsonData.code == 0) {
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+

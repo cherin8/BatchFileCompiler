@@ -1,0 +1,54 @@
+﻿[2025/01/27 18:14:15] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/freeaddress_resource_view.js:5379:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  5379|         var canvasImage = new Image();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/01/27 18:19:19] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/freeaddress_resource_view.js:5379:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  5379|         var canvasImage = new Image();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/01/27 18:24:31] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/freeaddress_resource_view.js:5381:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  5381|         var canvasImage = new Image();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/01/27 18:31:58] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/freeaddress_resource_view.js:5381:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  5381|         var canvasImage = new Image();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/01/27 18:40:12] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/freeaddress_resource_view.js:5381:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  5381|         var canvasImage = new Image();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/01/27 18:56:44] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/freeaddress_resource_view.js:5381:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  5381|         var canvasImage = new Image();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/01/27 19:09:07] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/freeaddress_resource_view.js:5381:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  5381|         var canvasImage = new Image();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/01/27 19:11:46] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/freeaddress_resource_view.js:5381:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  5381|         var canvasImage = new Image();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/01/27 19:15:16] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/freeaddress_resource_view.js:5414:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  5414|         var canvasImage = new Image();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+

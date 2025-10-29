@@ -1,0 +1,14 @@
+﻿[2024/07/08 16:10:57] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:181:3: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  181| 			if(firebase.apps.length > 0){
+       			^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  182| 				firebase.app
+       ^^^^^^^^^^^^^^^^^
+  183| 			}
+       ^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:182:13: WARNING - [JSC_USELESS_CODE] Suspicious code. The result of the 'getprop' operator is not being used.
+  182| 				firebase.app
+       				         ^^^
+
+0 error(s), 2 warning(s)
+

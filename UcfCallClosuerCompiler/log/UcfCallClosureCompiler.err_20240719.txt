@@ -1,0 +1,156 @@
+﻿[2024/07/19 11:19:12] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:82:3: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  82| 			return null;
+      			^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/07/19 11:32:08] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:31:59: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: registration
+  31|                 firebaseInstance.requestPermissionAndToken(registration=registration);
+                                                                 ^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2024/07/19 16:08:35] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:17:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  17|             if (action != "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  18|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  23|                 // firebaseInstance.deleteApp()
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  24|             }
+      ^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:25:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  25|             if (action == "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  26|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  32| 
+      ^
+  33|             }
+      ^^^^^^^^^^^^^
+
+0 error(s), 2 warning(s)
+
+[2024/07/19 16:27:03] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:17:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  17|             if (action != "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  18|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  23|                 // firebaseInstance.deleteApp()
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  24|             }
+      ^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:25:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  25|             if (action == "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  26|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  32| 
+      ^
+  33|             }
+      ^^^^^^^^^^^^^
+
+0 error(s), 2 warning(s)
+
+[2024/07/19 16:32:07] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:17:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  17|             if (action != "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  18|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  23|                 // firebaseInstance.deleteApp()
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  24|             }
+      ^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:25:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  25|             if (action == "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  26|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  32| 
+      ^
+  33|             }
+      ^^^^^^^^^^^^^
+
+0 error(s), 2 warning(s)
+
+[2024/07/19 16:45:39] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:17:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  17|             if (action != "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  18|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  23|                 // firebaseInstance.deleteApp()
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  24|             }
+      ^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:25:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  25|             if (action == "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  26|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  32| 
+      ^
+  33|             }
+      ^^^^^^^^^^^^^
+
+0 error(s), 2 warning(s)
+
+[2024/07/19 16:45:48] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:17:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  17|             if (action != "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  18|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  23|                 // firebaseInstance.deleteApp()
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  24|             }
+      ^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:25:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  25|             if (action == "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  26|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  32| 
+      ^
+  33|             }
+      ^^^^^^^^^^^^^
+
+0 error(s), 2 warning(s)
+
+[2024/07/19 17:00:27] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:17:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  17|             if (action != "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  18|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  23|                 // firebaseInstance.deleteApp()
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  24|             }
+      ^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:25:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  25|             if (action == "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  26|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  32| 
+      ^
+  33|             }
+      ^^^^^^^^^^^^^
+
+0 error(s), 2 warning(s)
+

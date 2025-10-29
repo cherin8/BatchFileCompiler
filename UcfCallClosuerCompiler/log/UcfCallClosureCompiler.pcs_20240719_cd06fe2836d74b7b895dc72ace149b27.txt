@@ -1,0 +1,31 @@
+﻿[2024/07/19 16:45:45] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/07/19 16:45:45] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2024/07/19 16:45:45] [Compile Start]ucfext_bell.js
+[2024/07/19 16:45:48] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:17:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  17|             if (action != "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  18|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  23|                 // firebaseInstance.deleteApp()
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  24|             }
+      ^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/ucfext_bell.js:25:12: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  25|             if (action == "on") {
+                  ^^^^^^^^^^^^^^^^^^^^^^
+  26|                 // Edit by cherin 2024/7, change to firebase notification
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  32| 
+      ^
+  33|             }
+      ^^^^^^^^^^^^^
+
+0 error(s), 2 warning(s)
+
+[2024/07/19 16:45:48] Expand Jinja Templates include files...
+[2024/07/19 16:45:48] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2024/07/19 16:45:48] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2024/07/19 16:45:48] Expand Jinja Templates include files fin.

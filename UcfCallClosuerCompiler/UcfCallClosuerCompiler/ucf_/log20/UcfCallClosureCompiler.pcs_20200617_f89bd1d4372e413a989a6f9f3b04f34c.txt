@@ -1,0 +1,16 @@
+﻿[2020/06/17 16:52:04] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2020/06/17 16:52:04] Create message python file...:C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\sateraito_message.py
+[2020/06/17 16:52:05] [Compile Start]lang\default.js
+[2020/06/17 16:52:07] [Compile Start]lang\ja.js
+[2020/06/17 16:52:09] [Compile Start]lang\en.js
+[2020/06/17 16:52:11] [Compile Start]ucfext_chatbot.js
+[2020/06/17 16:52:12] C:/Users/chun/PycharmProjects/sateraito-chatmagazine/src/script/debug/ucfext_chatbot.js:1057: ERROR - Object literal contains illegal duplicate key "getParamChat", disallowed in strict mode
+    getParamChat: function (chat_date) {
+    ^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2020/06/17 16:52:12] Expand Jinja Templates include files...
+[2020/06/17 16:52:12] Src:C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\templates
+[2020/06/17 16:52:12] Dst:C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\templates_automatically
+[2020/06/17 16:52:15] Expand Jinja Templates include files fin.

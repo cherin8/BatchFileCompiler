@@ -1,0 +1,24 @@
+﻿[2024/01/23 13:11:52] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/01/23 13:11:52] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\BASE_CODE\OLD\src\sateraito_message.py
+[2024/01/23 13:11:53] [Compile Start]common.js
+[2024/01/23 13:11:56] [Compile Start]jkmegamenu.js
+[2024/01/23 13:11:58] [Compile Start]ucfext.js
+[2024/01/23 13:12:01] [Compile Start]ucfext_acnt.js
+[2024/01/23 13:12:03] [Compile Start]ucfext_acslog.js
+[2024/01/23 13:12:05] [Compile Start]ucfext_operationlog.js
+[2024/01/23 13:12:07] [Compile Start]ucfext_field.js
+[2024/01/23 13:12:09] [Compile Start]init_backstretch.js
+[2024/01/23 13:12:11] [Compile Start]moment-with-locales.js
+[2024/01/23 13:12:14] [Compile Start]ext\PasswordStrength.js
+[2024/01/23 13:12:16] [Compile Start]ext\PopupOrgUnitList.js
+[2024/01/23 13:12:18] [Compile Start]ext\SecurityKeyboard.js
+[2024/01/23 13:12:20] [Compile Start]ext\ucf_element_selector.js
+[2024/01/23 13:12:22] [Compile Start]lang\default.js
+[2024/01/23 13:12:25] [Compile Start]lang\ja.js
+[2024/01/23 13:12:27] [Compile Start]lang\en.js
+[2024/01/23 13:12:29] [Compile Start]ucfext_chat_common.js
+[2024/01/23 13:12:31] [Compile Start]ucfext_bell.js
+[2024/01/23 13:12:34] Expand Jinja Templates include files...
+[2024/01/23 13:12:34] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\BASE_CODE\OLD\src\templates
+[2024/01/23 13:12:34] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\BASE_CODE\OLD\src\templates_automatically
+[2024/01/23 13:12:34] Expand Jinja Templates include files fin.

@@ -1,0 +1,16 @@
+﻿[2023/03/07 12:44:33] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/03/07 12:44:33] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\sateraito_message.py
+[2023/03/07 12:44:33] [Compile Start]spreadsheetsync.js
+[2023/03/07 12:44:36] [Compile Start]lang\default.js
+[2023/03/07 12:44:38] [Compile Start]lang\ja.js
+[2023/03/07 12:44:40] [Compile Start]lang\en.js
+[2023/03/07 12:44:42] D:/SATERAITO-OFFICE-PROJECT/SATERAITO-WEB-APPLICATIONS/03.SateraitoGlassApplication/MAIN/src/script/debug/lang/en.js:867:2: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "SHEET_NAME". In non-strict code, the last duplicate will overwrite the others.
+  867| 	,'SHEET_NAME':'Sheet name'
+       	 ^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2023/03/07 12:44:43] Expand Jinja Templates include files...
+[2023/03/07 12:44:43] Src:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\templates
+[2023/03/07 12:44:43] Dst:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\templates_automatically
+[2023/03/07 12:44:43] Expand Jinja Templates include files fin.

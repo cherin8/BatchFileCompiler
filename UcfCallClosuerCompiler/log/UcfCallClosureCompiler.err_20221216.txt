@@ -1,0 +1,10 @@
+﻿[2022/12/16 00:10:35] D:/SATERAITO-OFFICE-PROJECT/SATERAITO-WEB-APPLICATIONS/05.LanguageXmlTranslationApplication/MAIN/src/js/debug/translate.js:460:3: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  460| 			if(code == '0'){
+       			^^^^^^^^^^^^^^^^^
+  461| 				//delete complete
+       ^^^^^^^^^^^^^^^^^^^^^^
+  462| 			}
+       ^^^^
+
+0 error(s), 1 warning(s)
+

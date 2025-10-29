@@ -1,0 +1,39 @@
+﻿[2023/07/14 18:18:53] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/01.SATERAITO_GOOGLE_GLASS/MAIN/src/script/debug/spreadsheetsync.js:440:2: WARNING - [JSC_MISPLACED_ANNOTATION] Misplaced function annotation. This JSDoc is not attached to a function node. Are you missing parentheses?
+  440| 		SpreadSheets.requestSpreadsheetsConfigCheckAndSync(postData, function (response) {
+       		^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  441| 			$('.sheet-file-processing').hide();
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  458| 			}
+       ^^^^^
+  459| 	  });
+       ^^^^^
+
+0 error(s), 1 warning(s)
+
+[2023/07/14 18:21:02] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/01.SATERAITO_GOOGLE_GLASS/MAIN/src/script/debug/spreadsheetsync.js:440:2: WARNING - [JSC_MISPLACED_ANNOTATION] Misplaced function annotation. This JSDoc is not attached to a function node. Are you missing parentheses?
+  440| 		SpreadSheets.requestSpreadsheetsConfigCheckAndSync(postData, function (response) {
+       		^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  441| 			$('.sheet-file-processing').hide();
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  458| 			}
+       ^^^^^
+  459| 	  });
+       ^^^^^
+
+0 error(s), 1 warning(s)
+
+[2023/07/14 18:21:49] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/01.SATERAITO_GOOGLE_GLASS/MAIN/src/script/debug/spreadsheetsync.js:440:2: WARNING - [JSC_MISPLACED_ANNOTATION] Misplaced function annotation. This JSDoc is not attached to a function node. Are you missing parentheses?
+  440| 		SpreadSheets.requestSpreadsheetsConfigCheckAndSync(postData, function (response) {
+       		^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  441| 			$('.sheet-file-processing').hide();
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  458| 			}
+       ^^^^^
+  459| 	  });
+       ^^^^^
+
+0 error(s), 1 warning(s)
+

@@ -1,0 +1,18 @@
+﻿[2024/02/01 18:25:08] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/02/01 18:25:08] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\sateraito_message.py
+[2024/02/01 18:25:08] [Compile Start]attendance.js
+[2024/02/01 18:25:11] [Compile Start]regist_common.js
+[2024/02/01 18:25:13] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/regist_common.js:598:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  598|             'STATUS_UNUSED': "#color_status_unused",
+                   ^^^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/regist_common.js:599:12: ERROR - [JSC_DUPLICATE_MEMBER] Class or object literal contains duplicate member "STATUS_UNUSED". In non-strict code, the last duplicate will overwrite the others.
+  599|             'STATUS_UNUSED': "#color_status_wait",
+                   ^^^^^^^^^^^^^^^
+
+2 error(s), 0 warning(s)
+
+[2024/02/01 18:25:13] Expand Jinja Templates include files...
+[2024/02/01 18:25:13] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates
+[2024/02/01 18:25:13] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates_automatically
+[2024/02/01 18:25:13] Expand Jinja Templates include files fin.

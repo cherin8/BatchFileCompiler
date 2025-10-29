@@ -1,0 +1,52 @@
+﻿[2020/05/28 11:40:40] Failed load xml "C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\lang\ja_ALL.xml" System.Xml.XmlException: 'CDATsA' is an unexpected token. The expected token is 'CDATA['. Line 2663, position 44.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.Load(String filename)
+   at Ucf.CallClosureCompiler.Program.createLangPyFile()
+[2020/05/28 11:40:41] Failed load xml "C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\lang\ja_ALL.xml" System.Xml.XmlException: 'CDATsA' is an unexpected token. The expected token is 'CDATA['. Line 2663, position 44.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.Load(String filename)
+   at Ucf.CallClosureCompiler.Program.createLangPyFile()
+[2020/05/28 11:40:41] Failed load xml "C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\lang\ja_ALL.xml" System.Xml.XmlException: 'CDATsA' is an unexpected token. The expected token is 'CDATA['. Line 2663, position 44.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.Load(String filename)
+   at Ucf.CallClosureCompiler.Program.createLangJsFiles()
+[2020/05/28 11:40:41] Failed load xml "C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\lang\ja_ALL.xml" System.Xml.XmlException: 'CDATsA' is an unexpected token. The expected token is 'CDATA['. Line 2663, position 44.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.Load(String filename)
+   at Ucf.CallClosureCompiler.Program.callCreateLangJsFile(String strMessageFilePath, String strLanguage, Boolean isUseDefaultDefine, String strJsFileName, IList`1 lstDefaultMsg, IList`1 lstSemiDefaultMsg, String strDefaultLanguageFilePath, String strSemiDefaultLanguageFilePath)
+[2020/05/28 11:40:41] Failed load xml "C:\Users\chun\PycharmProjects\sateraito-chatmagazine\src\lang\ja_ALL.xml" System.Xml.XmlException: 'CDATsA' is an unexpected token. The expected token is 'CDATA['. Line 2663, position 44.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.Load(String filename)
+   at Ucf.CallClosureCompiler.Program.callCreateLangJsFile(String strMessageFilePath, String strLanguage, Boolean isUseDefaultDefine, String strJsFileName, IList`1 lstDefaultMsg, IList`1 lstSemiDefaultMsg, String strDefaultLanguageFilePath, String strSemiDefaultLanguageFilePath)
+[2020/05/28 11:40:43] C:/Users/chun/PycharmProjects/sateraito-chatmagazine/src/script/debug/ucfext_chatbot.js:1045: ERROR - Object literal contains illegal duplicate key "getParamChat", disallowed in strict mode
+    getParamChat: function (chat_date) {
+    ^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2020/05/28 11:42:14] C:/Users/chun/PycharmProjects/sateraito-chatmagazine/src/script/debug/ucfext_chatbot.js:1045: ERROR - Object literal contains illegal duplicate key "getParamChat", disallowed in strict mode
+    getParamChat: function (chat_date) {
+    ^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+

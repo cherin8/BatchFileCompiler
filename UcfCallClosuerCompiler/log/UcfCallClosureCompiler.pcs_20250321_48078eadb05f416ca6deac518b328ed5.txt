@@ -1,0 +1,17 @@
+﻿[2025/03/21 15:02:59] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2025/03/21 15:02:59] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2025/03/21 15:03:00] [Compile Start]map_controller.js
+[2025/03/21 15:03:01] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:1255:36: ERROR - [JSC_REFERENCE_BEFORE_DECLARE_ERROR] Illegal variable reference before declaration: tooltipLeft
+  1255|             tooltip.style.left = `${tooltipLeft}px`;
+                                            ^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:1256:35: ERROR - [JSC_REFERENCE_BEFORE_DECLARE_ERROR] Illegal variable reference before declaration: tooltipTop
+  1256|             tooltip.style.top = `${tooltipTop}px`;
+                                           ^^^^^^^^^^
+
+2 error(s), 0 warning(s)
+
+[2025/03/21 15:03:01] Expand Jinja Templates include files...
+[2025/03/21 15:03:01] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2025/03/21 15:03:01] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2025/03/21 15:03:01] Expand Jinja Templates include files fin.

@@ -1,0 +1,37 @@
+﻿[2024/07/05 10:04:38] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/07/05 10:04:38] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2024/07/05 10:04:39] [Compile Start]test.js
+[2024/07/05 10:04:41] [Compile Start]areamonitoring.js
+[2024/07/05 10:04:43] [Compile Start]attendance.js
+[2024/07/05 10:04:45] [Compile Start]common.js
+[2024/07/05 10:04:48] [Compile Start]canvas_map.js
+[2024/07/05 10:04:50] [Compile Start]equipment.js
+[2024/07/05 10:04:53] [Compile Start]init_backstretch.js
+[2024/07/05 10:04:55] [Compile Start]jkmegamenu.js
+[2024/07/05 10:04:57] [Compile Start]meetingroom.js
+[2024/07/05 10:05:00] [Compile Start]moment-with-locales.js
+[2024/07/05 10:05:04] [Compile Start]regist_common.js
+[2024/07/05 10:05:07] [Compile Start]resource_view.js
+[2024/07/05 10:05:10] [Compile Start]sample_html.js
+[2024/07/05 10:05:12] [Compile Start]ucfext.js
+[2024/07/05 10:05:15] [Compile Start]ucfext_acnt.js
+[2024/07/05 10:05:17] [Compile Start]ucfext_acslog.js
+[2024/07/05 10:05:19] [Compile Start]ucfext_bell.js
+[2024/07/05 10:05:21] [Compile Start]ucfext_chat_common.js
+[2024/07/05 10:05:23] [Compile Start]ucfext_chatbot.js
+[2024/07/05 10:05:25] [Compile Start]ucfext_config.js
+[2024/07/05 10:05:28] [Compile Start]ucfext_field.js
+[2024/07/05 10:05:30] [Compile Start]ucfext_operationlog.js
+[2024/07/05 10:05:32] [Compile Start]ext\PasswordStrength.js
+[2024/07/05 10:05:34] [Compile Start]ext\PopupGroupList.js
+[2024/07/05 10:05:36] [Compile Start]ext\PopupOrgUnitList.js
+[2024/07/05 10:05:38] [Compile Start]ext\PopupResourceList.js
+[2024/07/05 10:05:40] [Compile Start]ext\SecurityKeyboard.js
+[2024/07/05 10:05:42] [Compile Start]ext\ucf_element_selector.js
+[2024/07/05 10:05:44] [Compile Start]lang\default.js
+[2024/07/05 10:05:46] [Compile Start]lang\ja.js
+[2024/07/05 10:05:48] [Compile Start]lang\en.js
+[2024/07/05 10:05:51] Expand Jinja Templates include files...
+[2024/07/05 10:05:51] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2024/07/05 10:05:51] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2024/07/05 10:05:53] Expand Jinja Templates include files fin.

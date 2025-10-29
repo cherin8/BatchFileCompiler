@@ -1,0 +1,42 @@
+﻿[2025/03/03 12:26:24] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:639:16: ERROR - [JSC_REFERENCE_BEFORE_DECLARE_ERROR] Illegal variable reference before declaration: rectContainer
+  639|                 rectContainer.innerHTML = ''; // Clear existing rectangles and avatars
+                       ^^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2025/03/03 13:13:30] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:733:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: x1
+  733|                     x1 *= scaleX;
+                           ^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:734:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: y1
+  734|                     y1 *= scaleY;
+                           ^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:735:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: x2
+  735|                     x2 *= scaleX;
+                           ^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:736:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: y2
+  736|                     y2 *= scaleY;
+                           ^^
+
+4 error(s), 0 warning(s)
+
+[2025/03/03 14:07:30] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:682:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: x1
+  682|                     x1 *= scaleX;
+                           ^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:683:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: y1
+  683|                     y1 *= scaleY;
+                           ^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:684:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: x2
+  684|                     x2 *= scaleX;
+                           ^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/canvas_map.js:685:20: ERROR - [JSC_REASSIGNED_CONSTANT] Constant reassigned: y2
+  685|                     y2 *= scaleY;
+                           ^^
+
+4 error(s), 0 warning(s)
+

@@ -1,0 +1,33 @@
+﻿[2024/10/23 17:21:21] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/10/23 17:21:21] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\03.SATERAITO_BEACON\MAIN\src\sateraito_message.py
+[2024/10/23 17:21:22] [Compile Start]ajax.js
+[2024/10/23 17:21:24] [Compile Start]common.js
+[2024/10/23 17:21:27] [Compile Start]init_backstretch.js
+[2024/10/23 17:21:29] [Compile Start]jkmegamenu.js
+[2024/10/23 17:21:31] [Compile Start]jquery.blockUI.js
+[2024/10/23 17:21:33] [Compile Start]jquery.crossSelect.js
+[2024/10/23 17:21:35] [Compile Start]jquery.easing.js
+[2024/10/23 17:21:38] [Compile Start]json.js
+[2024/10/23 17:21:40] [Compile Start]ucfext.file.js
+[2024/10/23 17:21:42] [Compile Start]ucfext.js
+[2024/10/23 17:21:44] [Compile Start]ucfext.strength.js
+[2024/10/23 17:21:46] [Compile Start]ucfext_acnt.js
+[2024/10/23 17:21:49] [Compile Start]ucfext_acs.js
+[2024/10/23 17:21:51] [Compile Start]ucfext_acslog.js
+[2024/10/23 17:21:53] [Compile Start]ucfext_common.js
+[2024/10/23 17:21:55] [Compile Start]ucfext_config.js
+[2024/10/23 17:21:57] [Compile Start]ucfext_field.js
+[2024/10/23 17:21:59] [Compile Start]ucfext_operationlog.js
+[2024/10/23 17:22:01] [Compile Start]ucfext_task.js
+[2024/10/23 17:22:03] [Compile Start]my_beacon_history.js
+[2024/10/23 17:22:05] [Compile Start]beacon_location.js
+[2024/10/23 17:22:07] [Compile Start]sateraito_beacon_common.js
+[2024/10/23 17:22:10] [Compile Start]ucfext_beaconhistorylog.js
+[2024/10/23 17:22:12] [Compile Start]sateraito.js
+[2024/10/23 17:22:14] [Compile Start]lang\default.js
+[2024/10/23 17:22:16] [Compile Start]lang\ja.js
+[2024/10/23 17:22:18] [Compile Start]lang\en.js
+[2024/10/23 17:22:21] Expand Jinja Templates include files...
+[2024/10/23 17:22:21] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\03.SATERAITO_BEACON\MAIN\src\templates
+[2024/10/23 17:22:21] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\03.SATERAITO_BEACON\MAIN\src\templates_automatically
+[2024/10/23 17:22:23] Expand Jinja Templates include files fin.

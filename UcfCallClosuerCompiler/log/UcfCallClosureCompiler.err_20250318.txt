@@ -1,0 +1,18 @@
+﻿[2025/03/18 11:33:37] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:1245:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  1245|         const rects = rectContainer.querySelectorAll('.fa-user-rect');
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/03/18 11:54:31] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:1260:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  1260|         const rects = rectContainer.querySelectorAll('.fa-user-rect');
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/03/18 12:04:18] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:1260:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  1260|         const rects = rectContainer.querySelectorAll('.fa-user-rect');
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+

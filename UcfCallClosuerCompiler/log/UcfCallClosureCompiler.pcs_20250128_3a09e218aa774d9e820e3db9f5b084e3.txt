@@ -1,0 +1,13 @@
+﻿[2025/01/28 13:06:05] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2025/01/28 13:06:05] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2025/01/28 13:06:05] [Compile Start]freeaddress_resource_view.js
+[2025/01/28 13:06:08] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/freeaddress_resource_view.js:5414:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  5414|         var canvasImage = new Image();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2025/01/28 13:06:08] Expand Jinja Templates include files...
+[2025/01/28 13:06:08] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2025/01/28 13:06:08] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2025/01/28 13:06:09] Expand Jinja Templates include files fin.

@@ -1,0 +1,18 @@
+﻿[2024/05/31 10:18:11] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/05/31 10:18:11] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2024/05/31 10:18:11] [Compile Start]resource_view.js
+[2024/05/31 10:18:14] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:839:4: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  839|     if(startTimeString == '00:00'){
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  840| 
+       ^
+  841|     }
+       ^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/05/31 10:18:14] [Compile Start]ucfext_bell.js
+[2024/05/31 10:18:17] Expand Jinja Templates include files...
+[2024/05/31 10:18:17] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2024/05/31 10:18:17] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2024/05/31 10:18:18] Expand Jinja Templates include files fin.

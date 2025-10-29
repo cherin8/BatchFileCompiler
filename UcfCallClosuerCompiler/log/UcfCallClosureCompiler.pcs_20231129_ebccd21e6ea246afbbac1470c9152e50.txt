@@ -1,0 +1,29 @@
+﻿[2023/11/29 11:02:02] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/11/29 11:02:02] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\06.SIGNAGE_BROWSER\MAIN\src\sateraito_message.py
+[2023/11/29 11:02:02] [Compile Start]ajax.js
+[2023/11/29 11:02:06] [Compile Start]common.js
+[2023/11/29 11:02:09] [Compile Start]init_backstretch.js
+[2023/11/29 11:02:12] [Compile Start]jkmegamenu.js
+[2023/11/29 11:02:14] [Compile Start]jquery.blockUI.js
+[2023/11/29 11:02:16] [Compile Start]jquery.crossSelect.js
+[2023/11/29 11:02:19] [Compile Start]jquery.easing.js
+[2023/11/29 11:02:21] [Compile Start]json.js
+[2023/11/29 11:02:23] [Compile Start]ucfext.file.js
+[2023/11/29 11:02:26] [Compile Start]ucfext.js
+[2023/11/29 11:02:28] [Compile Start]ucfext.strength.js
+[2023/11/29 11:02:30] [Compile Start]ucfext_acnt.js
+[2023/11/29 11:02:33] [Compile Start]ucfext_acs.js
+[2023/11/29 11:02:35] [Compile Start]ucfext_acslog.js
+[2023/11/29 11:02:37] [Compile Start]ucfext_common.js
+[2023/11/29 11:02:39] [Compile Start]ucfext_config.js
+[2023/11/29 11:02:42] [Compile Start]ucfext_field.js
+[2023/11/29 11:02:44] [Compile Start]ucfext_operationlog.js
+[2023/11/29 11:02:46] [Compile Start]ucfext_task.js
+[2023/11/29 11:02:48] [Compile Start]sateraito.js
+[2023/11/29 11:02:50] [Compile Start]lang\default.js
+[2023/11/29 11:02:53] [Compile Start]lang\ja.js
+[2023/11/29 11:02:55] [Compile Start]lang\en.js
+[2023/11/29 11:02:58] Expand Jinja Templates include files...
+[2023/11/29 11:02:58] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\06.SIGNAGE_BROWSER\MAIN\src\templates
+[2023/11/29 11:02:58] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\06.SIGNAGE_BROWSER\MAIN\src\templates_automatically
+[2023/11/29 11:02:58] Expand Jinja Templates include files fin.

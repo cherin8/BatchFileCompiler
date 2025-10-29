@@ -1,0 +1,41 @@
+﻿[2023/11/15 17:07:50] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/11/15 17:07:50] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAIN\src\sateraito_message.py
+[2023/11/15 17:07:50] [Compile Start]ajax.js
+[2023/11/15 17:07:53] [Compile Start]common.js
+[2023/11/15 17:07:55] [Compile Start]jkmegamenu.js
+[2023/11/15 17:07:57] [Compile Start]jquery.crossSelect.js
+[2023/11/15 17:08:00] [Compile Start]jquery.blockUI.js
+[2023/11/15 17:08:02] [Compile Start]json.js
+[2023/11/15 17:08:04] [Compile Start]ucfext.file.js
+[2023/11/15 17:08:06] [Compile Start]ucfext.js
+[2023/11/15 17:08:10] [Compile Start]ucfext_acnt.js
+[2023/11/15 17:08:14] [Compile Start]ucfext_acs.js
+[2023/11/15 17:08:16] [Compile Start]ucfext_acslog.js
+[2023/11/15 17:08:19] [Compile Start]ucfext_operationlog.js
+[2023/11/15 17:08:22] [Compile Start]ucfext_config.js
+[2023/11/15 17:08:25] [Compile Start]ucfext_common.js
+[2023/11/15 17:08:28] [Compile Start]ucfext_task.js
+[2023/11/15 17:08:31] [Compile Start]ucfext_field.js
+[2023/11/15 17:08:34] [Compile Start]ucfext_group.js
+[2023/11/15 17:08:37] [Compile Start]ucfext_enqapplyform.js
+[2023/11/15 17:08:40] [Compile Start]ucfext.strength.js
+[2023/11/15 17:08:43] [Compile Start]init_backstretch.js
+[2023/11/15 17:08:46] [Compile Start]ext\PasswordStrength.js
+[2023/11/15 17:08:49] [Compile Start]ext\PopupGroupList.js
+[2023/11/15 17:08:51] [Compile Start]ext\PopupOrgUnitList.js
+[2023/11/15 17:08:54] [Compile Start]ext\SecurityKeyboard.js
+[2023/11/15 17:08:57] [Compile Start]ext\ucf_element_selector.js
+[2023/11/15 17:09:00] [Compile Start]lang\default.js
+[2023/11/15 17:09:03] [Compile Start]lang\ja.js
+[2023/11/15 17:09:06] [Compile Start]lang\en.js
+[2023/11/15 17:09:09] [Compile Start]ucfext_lineworks.js
+[2023/11/15 17:09:11] [Compile Start]jquery.colorbox.js
+[2023/11/15 17:09:15] [Compile Start]ucfext_operator.js
+[2023/11/15 17:09:18] [Compile Start]ucfext_user.js
+[2023/11/15 17:09:21] [Compile Start]ucfext_team.js
+[2023/11/15 17:09:24] [Compile Start]ucfext_teamsapp.js
+[2023/11/15 17:09:27] [Compile Start]ucfext_googlechat.js
+[2023/11/15 17:09:34] Expand Jinja Templates include files...
+[2023/11/15 17:09:34] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAIN\src\templates
+[2023/11/15 17:09:34] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\04.THANKYOU_CARD\MAIN\src\templates_automatically
+[2023/11/15 17:09:34] Expand Jinja Templates include files fin.

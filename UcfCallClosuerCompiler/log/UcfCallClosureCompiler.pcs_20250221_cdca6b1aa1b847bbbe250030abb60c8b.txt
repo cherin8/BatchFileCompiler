@@ -1,0 +1,7 @@
+﻿[2025/02/21 12:21:17] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2025/02/21 12:21:17] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2025/02/21 12:21:17] [Compile Start]resource_view_common.js
+[2025/02/21 12:21:21] Expand Jinja Templates include files...
+[2025/02/21 12:21:21] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2025/02/21 12:21:21] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2025/02/21 12:21:22] Expand Jinja Templates include files fin.

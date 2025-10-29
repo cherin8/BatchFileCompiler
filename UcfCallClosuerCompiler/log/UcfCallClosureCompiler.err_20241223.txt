@@ -1,0 +1,12 @@
+﻿[2024/12/23 12:31:36] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:6569:8: ERROR - [JSC_REDECLARED_VARIABLE_ERROR] Illegal redeclared variable: userName
+  6569|     let userName = userName.charAt(0).toUpperCase();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2024/12/23 12:31:51] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/resource_view.js:6569:8: ERROR - [JSC_REDECLARED_VARIABLE_ERROR] Illegal redeclared variable: userName
+  6569|     let userName = userName.charAt(0).toUpperCase();
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+

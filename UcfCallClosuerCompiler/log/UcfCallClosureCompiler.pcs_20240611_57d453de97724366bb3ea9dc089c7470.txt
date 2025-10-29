@@ -1,0 +1,20 @@
+﻿[2024/06/11 12:32:30] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/06/11 12:32:30] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\sateraito_message.py
+[2024/06/11 12:32:30] [Compile Start]test.js
+[2024/06/11 12:32:33] [Compile Start]areamonitoring.js
+[2024/06/11 12:32:39] [Compile Start]attendance.js
+[2024/06/11 12:32:42] [Compile Start]common.js
+[2024/06/11 12:32:45] [Compile Start]canvas_map.js
+[2024/06/11 12:32:48] [Compile Start]equipment.js
+[2024/06/11 12:32:50] [Compile Start]init_backstretch.js
+[2024/06/11 12:32:53] [Compile Start]jkmegamenu.js
+[2024/06/11 12:32:55] [Compile Start]meetingroom.js
+[2024/06/11 12:32:57] [Compile Start]moment-with-locales.js
+[2024/06/11 12:33:00] [Compile Start]resource_view.js
+[2024/06/11 12:33:03] [Compile Start]lang\default.js
+[2024/06/11 12:33:05] [Compile Start]lang\ja.js
+[2024/06/11 12:33:07] [Compile Start]lang\en.js
+[2024/06/11 12:33:10] Expand Jinja Templates include files...
+[2024/06/11 12:33:10] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates
+[2024/06/11 12:33:10] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\GEN2\MAIN\src\templates_automatically
+[2024/06/11 12:33:10] Expand Jinja Templates include files fin.

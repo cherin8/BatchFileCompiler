@@ -1,0 +1,16 @@
+﻿[2022/12/19 10:37:49] D:/SATERAITO-OFFICE-PROJECT/SATERAITO-WEB-APPLICATIONS/05.LanguageXmlTranslationApplication/MAIN/src/js/debug/translate.js:480:3: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  480| 			if(code == '0'){
+       			^^^^^^^^^^^^^^^^^
+  481| 				//delete complete
+       ^^^^^^^^^^^^^^^^^^^^^^
+  482| 			}
+       ^^^^
+
+0 error(s), 1 warning(s)
+
+[2022/12/19 18:19:52] D:/SATERAITO-OFFICE-PROJECT/SATERAITO-WEB-APPLICATIONS/05.LanguageXmlTranslationApplication/MAIN/src/js/debug/translate.js:544:9: ERROR - [JSC_REDECLARED_VARIABLE_ERROR] Illegal redeclared variable: finalTranslatedText
+  544| 				let {finalTranslatedText, speacialCharCheckErrs} = serializeXml(existingXmlText, translatedTextToJson);
+       				     ^^^^^^^^^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+

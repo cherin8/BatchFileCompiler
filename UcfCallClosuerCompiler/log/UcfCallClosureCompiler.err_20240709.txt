@@ -1,0 +1,10 @@
+﻿[2024/07/09 18:16:29] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:139:8: WARNING - [JSC_UNREACHABLE_CODE] unreachable code
+  139| 			}else{
+       			     ^^
+  140| 				console.log('notification is off!')
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  141| 			}
+       ^^^^
+
+0 error(s), 1 warning(s)
+

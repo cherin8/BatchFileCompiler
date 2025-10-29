@@ -1,0 +1,7 @@
+﻿[2023/06/23 11:12:27] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2023/06/23 11:12:27] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\01.SATERAITO_GOOGLE_GLASS\MAIN\src\sateraito_message.py
+[2023/06/23 11:12:27] [Compile Start]ucfext_operationlog.js
+[2023/06/23 11:12:30] Expand Jinja Templates include files...
+[2023/06/23 11:12:30] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\01.SATERAITO_GOOGLE_GLASS\MAIN\src\templates
+[2023/06/23 11:12:30] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\01.SATERAITO_GOOGLE_GLASS\MAIN\src\templates_automatically
+[2023/06/23 11:12:30] Expand Jinja Templates include files fin.

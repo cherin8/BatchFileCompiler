@@ -1,0 +1,9 @@
+﻿[2021/07/15 16:58:34] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2021/07/15 16:58:34] Create message python file...:C:\working_8\sateraito-chatmagazine\src\sateraito_message.py
+[2021/07/15 16:58:34] [Compile Start]lang\default.js
+[2021/07/15 16:58:37] [Compile Start]lang\ja.js
+[2021/07/15 16:58:38] [Compile Start]lang\en.js
+[2021/07/15 16:58:40] Expand Jinja Templates include files...
+[2021/07/15 16:58:40] Src:C:\working_8\sateraito-chatmagazine\src\templates
+[2021/07/15 16:58:40] Dst:C:\working_8\sateraito-chatmagazine\src\templates_automatically
+[2021/07/15 16:58:41] Expand Jinja Templates include files fin.

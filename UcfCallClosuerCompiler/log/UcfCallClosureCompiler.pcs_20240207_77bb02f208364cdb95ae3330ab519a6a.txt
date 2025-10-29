@@ -1,0 +1,50 @@
+﻿[2024/02/07 16:31:01] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/02/07 16:31:01] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\sateraito_message.py
+[2024/02/07 16:31:01] [Compile Start]ajax.js
+[2024/02/07 16:31:04] [Compile Start]common.js
+[2024/02/07 16:31:07] [Compile Start]jkmegamenu.js
+[2024/02/07 16:31:09] [Compile Start]jquery.crossSelect.js
+[2024/02/07 16:31:11] [Compile Start]jquery.blockUI.js
+[2024/02/07 16:31:13] [Compile Start]json.js
+[2024/02/07 16:31:16] [Compile Start]ucfext.file.js
+[2024/02/07 16:31:18] [Compile Start]ucfext.js
+[2024/02/07 16:31:20] [Compile Start]ucfext_acnt.js
+[2024/02/07 16:31:22] [Compile Start]ucfext_acs.js
+[2024/02/07 16:31:24] [Compile Start]ucfext_acslog.js
+[2024/02/07 16:31:26] [Compile Start]ucfext_operationlog.js
+[2024/02/07 16:31:28] [Compile Start]ucfext_config.js
+[2024/02/07 16:31:30] [Compile Start]ucfext_common.js
+[2024/02/07 16:31:32] [Compile Start]ucfext_task.js
+[2024/02/07 16:31:35] [Compile Start]ucfext_field.js
+[2024/02/07 16:31:37] [Compile Start]ucfext.strength.js
+[2024/02/07 16:31:39] [Compile Start]init_backstretch.js
+[2024/02/07 16:31:41] [Compile Start]moment-with-locales.js
+[2024/02/07 16:31:45] [Compile Start]ext\PasswordStrength.js
+[2024/02/07 16:31:47] [Compile Start]ext\PopupOrgUnitList.js
+[2024/02/07 16:31:49] [Compile Start]ext\SecurityKeyboard.js
+[2024/02/07 16:31:51] [Compile Start]ext\ucf_element_selector.js
+[2024/02/07 16:31:53] [Compile Start]lang\default.js
+[2024/02/07 16:31:55] [Compile Start]lang\ja.js
+[2024/02/07 16:31:57] [Compile Start]lang\en.js
+[2024/02/07 16:31:59] [Compile Start]ucfext_lineworks.js
+[2024/02/07 16:32:02] [Compile Start]ucfext_team.js
+[2024/02/07 16:32:04] [Compile Start]ucfext_teamsapp.js
+[2024/02/07 16:32:06] [Compile Start]ucfext_hangout.js
+[2024/02/07 16:32:08] [Compile Start]ucfext_slack.js
+[2024/02/07 16:32:11] [Compile Start]ucfext_chat_common.js
+[2024/02/07 16:32:13] [Compile Start]ucfext_bell.js
+[2024/02/07 16:32:15] [Compile Start]equipment_regist.js
+[2024/02/07 16:32:17] [Compile Start]equipment_detail.js
+[2024/02/07 16:32:19] [Compile Start]equipment_list.js
+[2024/02/07 16:32:22] [Compile Start]jquery.maphilight.js
+[2024/02/07 16:32:24] [Compile Start]areamonitoring_regist.js
+[2024/02/07 16:32:26] [Compile Start]attendance_regist.js
+[2024/02/07 16:32:28] [Compile Start]attendance_detail.js
+[2024/02/07 16:32:30] [Compile Start]attendance_list.js
+[2024/02/07 16:32:32] [Compile Start]meetingroom_regist.js
+[2024/02/07 16:32:35] [Compile Start]meetingroom_detail.js
+[2024/02/07 16:32:37] [Compile Start]meetingroom_list.js
+[2024/02/07 16:32:39] Expand Jinja Templates include files...
+[2024/02/07 16:32:39] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates
+[2024/02/07 16:32:39] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates_automatically
+[2024/02/07 16:32:40] Expand Jinja Templates include files fin.

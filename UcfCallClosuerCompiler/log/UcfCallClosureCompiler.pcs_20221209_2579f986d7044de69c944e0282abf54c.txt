@@ -1,0 +1,8 @@
+﻿[2022/12/09 15:09:07] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2022/12/09 15:09:07] Create message python file...:
+[2022/12/09 15:09:07] System.ArgumentException: パス名を空にすることはできません。
+   場所 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   場所 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   場所 Ucf.CallClosureCompiler.Program.createLangPyFile()
+   場所 Ucf.CallClosureCompiler.Program.executeMainProcess()
+   場所 Ucf.CallClosureCompiler.Program.Main(String[] args)

@@ -1,0 +1,26 @@
+﻿[2024/10/16 16:06:21] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/10/16 16:06:21] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\sateraito_message.py
+[2024/10/16 16:06:21] [Compile Start]common.js
+[2024/10/16 16:06:25] [Compile Start]jkmegamenu.js
+[2024/10/16 16:06:27] [Compile Start]ucfext.js
+[2024/10/16 16:06:29] [Compile Start]ucfext_acnt.js
+[2024/10/16 16:06:32] [Compile Start]ucfext_acslog.js
+[2024/10/16 16:06:34] [Compile Start]ucfext_operationlog.js
+[2024/10/16 16:06:35] [Compile Start]ucfext_config.js
+[2024/10/16 16:06:37] [Compile Start]ucfext_field.js
+[2024/10/16 16:06:39] [Compile Start]init_backstretch.js
+[2024/10/16 16:06:41] [Compile Start]moment-with-locales.js
+[2024/10/16 16:06:45] [Compile Start]ext\PasswordStrength.js
+[2024/10/16 16:06:47] [Compile Start]ext\PopupOrgUnitList.js
+[2024/10/16 16:06:49] [Compile Start]ext\SecurityKeyboard.js
+[2024/10/16 16:06:51] [Compile Start]ext\ucf_element_selector.js
+[2024/10/16 16:06:53] [Compile Start]lang\default.js
+[2024/10/16 16:06:55] [Compile Start]lang\ja.js
+[2024/10/16 16:06:57] [Compile Start]lang\en.js
+[2024/10/16 16:06:59] [Compile Start]ucfext_chat_common.js
+[2024/10/16 16:07:01] [Compile Start]ucfext_bell.js
+[2024/10/16 16:07:03] [Compile Start]meetingroom_list.js
+[2024/10/16 16:07:06] Expand Jinja Templates include files...
+[2024/10/16 16:07:06] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates
+[2024/10/16 16:07:06] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\MAIN\src\templates_automatically
+[2024/10/16 16:07:06] Expand Jinja Templates include files fin.

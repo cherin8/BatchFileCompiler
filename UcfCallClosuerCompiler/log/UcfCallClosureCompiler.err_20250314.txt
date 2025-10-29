@@ -1,0 +1,27 @@
+﻿[2025/03/14 17:58:18] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:723:21: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  723|                 else if(displayType == 'fa-select-reserved-seat-icon'){
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  724|                     // Display with user name icon
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+...
+  728|                     // Display profile photo
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  729|                 }
+       ^^^^^^^^^^^^^^^^^
+
+D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:727:21: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  727|                 else if(displayType == 'fa-select-reserved-seat-photo' && doDisplayPhoto){
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  728|                     // Display profile photo
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  729|                 }
+       ^^^^^^^^^^^^^^^^^
+
+0 error(s), 2 warning(s)
+
+[2025/03/14 18:07:24] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/map_controller.js:1073:9: ERROR - [JSC_PARSE_ERROR] Parse error. Semi-colon expected
+  1073|         });
+                 ^
+
+1 error(s), 0 warning(s)
+

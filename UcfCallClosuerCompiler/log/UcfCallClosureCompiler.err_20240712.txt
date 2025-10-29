@@ -1,0 +1,36 @@
+﻿[2024/07/12 10:18:59] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "./firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from './firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/12 10:20:25] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "../firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from '../firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/12 10:20:55] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "../../../firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from '../../../firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/12 10:37:20] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "../../../firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from '../../../firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/12 10:52:24] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "../../../firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from '../../../firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+
+[2024/07/12 10:55:39] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/GEN2/MAIN/src/script/debug/firebase_operation.js:1:0: ERROR - [JSC_JS_MODULE_LOAD_WARNING] Failed to load module "../../firebase_webpack/dist/bundle.js"
+  1| import { initializeApp, getMessaging, getToken, onMessage } from '../../firebase_webpack/dist/bundle.js';
+     ^
+
+1 error(s), 0 warning(s)
+

@@ -1,0 +1,12 @@
+﻿[2022/05/02 11:20:40] D:/sateraito-fitbit_dev/sateraito_fitbit/src/script/debug/user_console_carfare.js:1114: ERROR - Object literal contains illegal duplicate key "columnLines", disallowed in strict mode
+        columnLines:true,
+        ^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+
+[2022/05/02 11:57:14] D:/sateraito-fitbit_dev/sateraito_fitbit/src/script/debug/user_console_carfare.js:1114: ERROR - Object literal contains illegal duplicate key "columnLines", disallowed in strict mode
+        columnLines:true,
+        ^^^^^^^^^^^
+
+1 error(s), 0 warning(s)
+

@@ -1,0 +1,19 @@
+﻿[2024/02/21 13:21:49] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2024/02/21 13:21:49] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\sateraito_message.py
+[2024/02/21 13:21:49] [Compile Start]canvas_map.js
+[2024/02/21 13:21:52] D:/SATERAITO-OFFICE-PROJECT/2nd-GEN-MIGRATION/01.WEB_APPLICATIONS/07.RESOURCE/WANGDA/MAIN/src/script/debug/canvas_map.js:531:24: WARNING - [JSC_USELESS_CODE] Suspicious code. This code lacks side-effects. Is there a bug?
+  531|                         if(rect_id){
+                               ^^^^^^^^^^^^^
+  532|                             // redirect to detail page
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  533|                             // window.location.href = toDetailUrl(rect_id);
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  534|                         }
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0 error(s), 1 warning(s)
+
+[2024/02/21 13:21:52] Expand Jinja Templates include files...
+[2024/02/21 13:21:52] Src:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates
+[2024/02/21 13:21:52] Dst:D:\SATERAITO-OFFICE-PROJECT\2nd-GEN-MIGRATION\01.WEB_APPLICATIONS\07.RESOURCE\WANGDA\MAIN\src\templates_automatically
+[2024/02/21 13:21:53] Expand Jinja Templates include files fin.

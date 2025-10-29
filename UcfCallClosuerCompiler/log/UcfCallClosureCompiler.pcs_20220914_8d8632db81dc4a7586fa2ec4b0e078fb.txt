@@ -1,0 +1,3 @@
+﻿[2022/09/14 12:13:56] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[2022/09/14 12:13:56] Create message python file...:D:\SATERAITO-OFFICE-PROJECT\SATERAITO-WEB-APPLICATIONS\03.SateraitoGlassApplication\MAIN\src\sateraito_message.py
+[2022/09/14 12:13:56] [Compile Start]lang\default.js
